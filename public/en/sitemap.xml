@@ -2,704 +2,704 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:59149/reader/site/post/</loc>
+    <loc>http://localhost:59149/post/</loc>
     <lastmod>2020-03-15T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/post/"
+                href="http://localhost:59149/fr/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/post/"
+                href="http://localhost:59149/post/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/categories/</loc>
+    <loc>http://localhost:59149/categories/</loc>
     <lastmod>2020-03-15T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/categories/"
+                href="http://localhost:59149/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/categories/"
+                href="http://localhost:59149/categories/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/tags/demo/</loc>
+    <loc>http://localhost:59149/tags/demo/</loc>
     <lastmod>2020-03-15T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/tags/demo/"
+                href="http://localhost:59149/fr/tags/demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/tags/demo/"
+                href="http://localhost:59149/tags/demo/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/categories/demo/</loc>
+    <loc>http://localhost:59149/categories/demo/</loc>
     <lastmod>2020-03-15T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/categories/demo/"
+                href="http://localhost:59149/fr/categories/demo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/categories/demo/"
+                href="http://localhost:59149/categories/demo/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/tags/elements/</loc>
+    <loc>http://localhost:59149/tags/elements/</loc>
     <lastmod>2020-03-15T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/tags/elements/"
+                href="http://localhost:59149/fr/tags/elements/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/tags/elements/"
+                href="http://localhost:59149/tags/elements/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/categories/elements/</loc>
+    <loc>http://localhost:59149/categories/elements/</loc>
     <lastmod>2020-03-15T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/categories/elements/"
+                href="http://localhost:59149/fr/categories/elements/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/categories/elements/"
+                href="http://localhost:59149/categories/elements/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/post/elements/</loc>
+    <loc>http://localhost:59149/post/elements/</loc>
     <lastmod>2020-03-15T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/post/elements/"
+                href="http://localhost:59149/fr/post/elements/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/post/elements/"
+                href="http://localhost:59149/post/elements/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/</loc>
+    <loc>http://localhost:59149/</loc>
     <lastmod>2020-03-15T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/"
+                href="http://localhost:59149/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/"
+                href="http://localhost:59149/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/tags/</loc>
+    <loc>http://localhost:59149/tags/</loc>
     <lastmod>2020-03-15T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/tags/"
+                href="http://localhost:59149/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/tags/"
+                href="http://localhost:59149/tags/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/post/post-3/</loc>
+    <loc>http://localhost:59149/post/post-3/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/post/post-3/"
+                href="http://localhost:59149/fr/post/post-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/post/post-3/"
+                href="http://localhost:59149/post/post-3/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/post/post-7/</loc>
+    <loc>http://localhost:59149/post/post-7/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/post/post-7/"
+                href="http://localhost:59149/fr/post/post-7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/post/post-7/"
+                href="http://localhost:59149/post/post-7/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/post/post-6/</loc>
+    <loc>http://localhost:59149/post/post-6/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/post/post-6/"
+                href="http://localhost:59149/fr/post/post-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/post/post-6/"
+                href="http://localhost:59149/post/post-6/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/tags/city/</loc>
+    <loc>http://localhost:59149/tags/city/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/tags/city/"
+                href="http://localhost:59149/fr/tags/city/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/tags/city/"
+                href="http://localhost:59149/tags/city/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/tags/color/</loc>
+    <loc>http://localhost:59149/tags/color/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/tags/color/"
+                href="http://localhost:59149/fr/tags/color/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/tags/color/"
+                href="http://localhost:59149/tags/color/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/tags/creative/</loc>
+    <loc>http://localhost:59149/tags/creative/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/tags/creative/"
+                href="http://localhost:59149/fr/tags/creative/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/tags/creative/"
+                href="http://localhost:59149/tags/creative/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/categories/creativity/</loc>
+    <loc>http://localhost:59149/categories/creativity/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/categories/creativity/"
+                href="http://localhost:59149/fr/categories/creativity/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/categories/creativity/"
+                href="http://localhost:59149/categories/creativity/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/tags/decorate/</loc>
+    <loc>http://localhost:59149/tags/decorate/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/tags/decorate/"
+                href="http://localhost:59149/fr/tags/decorate/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/tags/decorate/"
+                href="http://localhost:59149/tags/decorate/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/tags/fish/</loc>
+    <loc>http://localhost:59149/tags/fish/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/tags/fish/"
+                href="http://localhost:59149/fr/tags/fish/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/tags/fish/"
+                href="http://localhost:59149/tags/fish/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/tags/food/</loc>
+    <loc>http://localhost:59149/tags/food/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/tags/food/"
+                href="http://localhost:59149/fr/tags/food/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/tags/food/"
+                href="http://localhost:59149/tags/food/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/categories/food/</loc>
+    <loc>http://localhost:59149/categories/food/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/categories/food/"
+                href="http://localhost:59149/fr/categories/food/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/categories/food/"
+                href="http://localhost:59149/categories/food/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/post/post-5/</loc>
+    <loc>http://localhost:59149/post/post-5/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/post/post-5/"
+                href="http://localhost:59149/fr/post/post-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/post/post-5/"
+                href="http://localhost:59149/post/post-5/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/post/post-8/</loc>
+    <loc>http://localhost:59149/post/post-8/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/post/post-8/"
+                href="http://localhost:59149/fr/post/post-8/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/post/post-8/"
+                href="http://localhost:59149/post/post-8/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/categories/microwave/</loc>
+    <loc>http://localhost:59149/categories/microwave/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/categories/microwave/"
+                href="http://localhost:59149/fr/categories/microwave/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/categories/microwave/"
+                href="http://localhost:59149/categories/microwave/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/categories/natural/</loc>
+    <loc>http://localhost:59149/categories/natural/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/categories/natural/"
+                href="http://localhost:59149/fr/categories/natural/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/categories/natural/"
+                href="http://localhost:59149/categories/natural/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/categories/newyork-city/</loc>
+    <loc>http://localhost:59149/categories/newyork-city/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/categories/newyork-city/"
+                href="http://localhost:59149/fr/categories/newyork-city/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/categories/newyork-city/"
+                href="http://localhost:59149/categories/newyork-city/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/tags/nice/</loc>
+    <loc>http://localhost:59149/tags/nice/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/tags/nice/"
+                href="http://localhost:59149/fr/tags/nice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/tags/nice/"
+                href="http://localhost:59149/tags/nice/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/categories/nice/</loc>
+    <loc>http://localhost:59149/categories/nice/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/categories/nice/"
+                href="http://localhost:59149/fr/categories/nice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/categories/nice/"
+                href="http://localhost:59149/categories/nice/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/tags/recipe/</loc>
+    <loc>http://localhost:59149/tags/recipe/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/tags/recipe/"
+                href="http://localhost:59149/fr/tags/recipe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/tags/recipe/"
+                href="http://localhost:59149/tags/recipe/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/tags/season/</loc>
+    <loc>http://localhost:59149/tags/season/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/tags/season/"
+                href="http://localhost:59149/fr/tags/season/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/tags/season/"
+                href="http://localhost:59149/tags/season/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/tags/taste/</loc>
+    <loc>http://localhost:59149/tags/taste/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/tags/taste/"
+                href="http://localhost:59149/fr/tags/taste/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/tags/taste/"
+                href="http://localhost:59149/tags/taste/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/tags/tasty/</loc>
+    <loc>http://localhost:59149/tags/tasty/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/tags/tasty/"
+                href="http://localhost:59149/fr/tags/tasty/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/tags/tasty/"
+                href="http://localhost:59149/tags/tasty/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/categories/tech/</loc>
+    <loc>http://localhost:59149/categories/tech/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/categories/tech/"
+                href="http://localhost:59149/fr/categories/tech/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/categories/tech/"
+                href="http://localhost:59149/categories/tech/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/post/post-2/</loc>
+    <loc>http://localhost:59149/post/post-2/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/post/post-2/"
+                href="http://localhost:59149/fr/post/post-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/post/post-2/"
+                href="http://localhost:59149/post/post-2/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/post/post-4/</loc>
+    <loc>http://localhost:59149/post/post-4/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/post/post-4/"
+                href="http://localhost:59149/fr/post/post-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/post/post-4/"
+                href="http://localhost:59149/post/post-4/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/post/post-1/</loc>
+    <loc>http://localhost:59149/post/post-1/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/post/post-1/"
+                href="http://localhost:59149/fr/post/post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/post/post-1/"
+                href="http://localhost:59149/post/post-1/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/categories/videography/</loc>
+    <loc>http://localhost:59149/categories/videography/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/categories/videography/"
+                href="http://localhost:59149/fr/categories/videography/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/categories/videography/"
+                href="http://localhost:59149/categories/videography/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/tags/vlog/</loc>
+    <loc>http://localhost:59149/tags/vlog/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/tags/vlog/"
+                href="http://localhost:59149/fr/tags/vlog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/tags/vlog/"
+                href="http://localhost:59149/tags/vlog/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/categories/vlog/</loc>
+    <loc>http://localhost:59149/categories/vlog/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/categories/vlog/"
+                href="http://localhost:59149/fr/categories/vlog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/categories/vlog/"
+                href="http://localhost:59149/categories/vlog/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/categories/wondarland/</loc>
+    <loc>http://localhost:59149/categories/wondarland/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/categories/wondarland/"
+                href="http://localhost:59149/fr/categories/wondarland/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/categories/wondarland/"
+                href="http://localhost:59149/categories/wondarland/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/tags/wow/</loc>
+    <loc>http://localhost:59149/tags/wow/</loc>
     <lastmod>2020-03-14T15:40:24+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/tags/wow/"
+                href="http://localhost:59149/fr/tags/wow/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/tags/wow/"
+                href="http://localhost:59149/tags/wow/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/404/</loc>
+    <loc>http://localhost:59149/404/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/404/"
+                href="http://localhost:59149/fr/404/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/404/"
+                href="http://localhost:59149/404/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/about-me/</loc>
+    <loc>http://localhost:59149/about-me/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/about-me/"
+                href="http://localhost:59149/fr/about-me/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/about-me/"
+                href="http://localhost:59149/about-me/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/about-us/</loc>
+    <loc>http://localhost:59149/about-us/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/about-us/"
+                href="http://localhost:59149/fr/about-us/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/about-us/"
+                href="http://localhost:59149/about-us/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/author/</loc>
+    <loc>http://localhost:59149/author/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/author/"
+                href="http://localhost:59149/fr/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/author/"
+                href="http://localhost:59149/author/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/author/charls-xaviar/</loc>
+    <loc>http://localhost:59149/author/charls-xaviar/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/author/charls-xaviar/"
+                href="http://localhost:59149/fr/author/charls-xaviar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/author/charls-xaviar/"
+                href="http://localhost:59149/author/charls-xaviar/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/contact/</loc>
+    <loc>http://localhost:59149/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/contact/"
+                href="http://localhost:59149/fr/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/contact/"
+                href="http://localhost:59149/contact/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/author/danny-mark/</loc>
+    <loc>http://localhost:59149/author/danny-mark/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/author/danny-mark/"
+                href="http://localhost:59149/fr/author/danny-mark/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/author/danny-mark/"
+                href="http://localhost:59149/author/danny-mark/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/elements/</loc>
+    <loc>http://localhost:59149/elements/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/elements/"
+                href="http://localhost:59149/fr/elements/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/elements/"
+                href="http://localhost:59149/elements/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/author/john-doe/</loc>
+    <loc>http://localhost:59149/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/author/john-doe/"
+                href="http://localhost:59149/fr/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/author/john-doe/"
+                href="http://localhost:59149/author/john-doe/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/author/kate-stone/</loc>
+    <loc>http://localhost:59149/author/kate-stone/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/author/kate-stone/"
+                href="http://localhost:59149/fr/author/kate-stone/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/author/kate-stone/"
+                href="http://localhost:59149/author/kate-stone/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/author/mark-dinn/</loc>
+    <loc>http://localhost:59149/author/mark-dinn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/author/mark-dinn/"
+                href="http://localhost:59149/fr/author/mark-dinn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/author/mark-dinn/"
+                href="http://localhost:59149/author/mark-dinn/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/privacy-policy/</loc>
+    <loc>http://localhost:59149/privacy-policy/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/privacy-policy/"
+                href="http://localhost:59149/fr/privacy-policy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/privacy-policy/"
+                href="http://localhost:59149/privacy-policy/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/terms-conditions/</loc>
+    <loc>http://localhost:59149/terms-conditions/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/terms-conditions/"
+                href="http://localhost:59149/fr/terms-conditions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/terms-conditions/"
+                href="http://localhost:59149/terms-conditions/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/author/scarlet-witch/</loc>
+    <loc>http://localhost:59149/author/scarlet-witch/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/author/scarlet-witch/"
+                href="http://localhost:59149/fr/author/scarlet-witch/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/author/scarlet-witch/"
+                href="http://localhost:59149/author/scarlet-witch/"
                 />
   </url><url>
-    <loc>http://localhost:59149/reader/site/search/</loc>
+    <loc>http://localhost:59149/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
-                href="http://localhost:59149/reader/site/fr/search/"
+                href="http://localhost:59149/fr/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:59149/reader/site/search/"
+                href="http://localhost:59149/search/"
                 />
   </url>
 </urlset>
