@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepages on Reader | Hugo Personal Blog Template</title>
-    <link>http://localhost:59149/reader/site/fr/homepage/</link>
+    <link>http://localhost:60002/fr/homepage/</link>
     <description>Recent content in Homepages on Reader | Hugo Personal Blog Template</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
-    <atom:link href="http://localhost:59149/reader/site/fr/homepage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:60002/fr/homepage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Homepage Full</title>
-      <link>http://localhost:59149/reader/site/fr/homepage/full/</link>
+      <link>http://localhost:60002/fr/homepage/full/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/homepage/full/</guid>
+      <guid>http://localhost:60002/fr/homepage/full/</guid>
       <description></description>
     </item>
     <item>
       <title>Homepage Full Left</title>
-      <link>http://localhost:59149/reader/site/fr/homepage/full-left/</link>
+      <link>http://localhost:60002/fr/homepage/full-left/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/homepage/full-left/</guid>
+      <guid>http://localhost:60002/fr/homepage/full-left/</guid>
       <description></description>
     </item>
     <item>
       <title>Homepage Full Right</title>
-      <link>http://localhost:59149/reader/site/fr/homepage/full-right/</link>
+      <link>http://localhost:60002/fr/homepage/full-right/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/homepage/full-right/</guid>
+      <guid>http://localhost:60002/fr/homepage/full-right/</guid>
       <description></description>
     </item>
     <item>
       <title>Homepage Grid</title>
-      <link>http://localhost:59149/reader/site/fr/homepage/grid/</link>
+      <link>http://localhost:60002/fr/homepage/grid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/homepage/grid/</guid>
+      <guid>http://localhost:60002/fr/homepage/grid/</guid>
       <description></description>
     </item>
     <item>
       <title>Homepage Grid Left</title>
-      <link>http://localhost:59149/reader/site/fr/homepage/grid-left/</link>
+      <link>http://localhost:60002/fr/homepage/grid-left/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/homepage/grid-left/</guid>
+      <guid>http://localhost:60002/fr/homepage/grid-left/</guid>
       <description></description>
     </item>
     <item>
       <title>Homepage Grid Right</title>
-      <link>http://localhost:59149/reader/site/fr/homepage/grid-right/</link>
+      <link>http://localhost:60002/fr/homepage/grid-right/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/homepage/grid-right/</guid>
+      <guid>http://localhost:60002/fr/homepage/grid-right/</guid>
       <description></description>
     </item>
     <item>
       <title>Homepage List</title>
-      <link>http://localhost:59149/reader/site/fr/homepage/list/</link>
+      <link>http://localhost:60002/fr/homepage/list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/homepage/list/</guid>
+      <guid>http://localhost:60002/fr/homepage/list/</guid>
       <description></description>
     </item>
     <item>
       <title>Homepage List Left</title>
-      <link>http://localhost:59149/reader/site/fr/homepage/list-left/</link>
+      <link>http://localhost:60002/fr/homepage/list-left/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/homepage/list-left/</guid>
+      <guid>http://localhost:60002/fr/homepage/list-left/</guid>
       <description></description>
     </item>
     <item>
       <title>Homepage List Right</title>
-      <link>http://localhost:59149/reader/site/fr/homepage/list-right/</link>
+      <link>http://localhost:60002/fr/homepage/list-right/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/homepage/list-right/</guid>
+      <guid>http://localhost:60002/fr/homepage/list-right/</guid>
       <description></description>
     </item>
     <item>
       <title>Homepage Minimal</title>
-      <link>http://localhost:59149/reader/site/fr/homepage/minimal/</link>
+      <link>http://localhost:60002/fr/homepage/minimal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/homepage/minimal/</guid>
+      <guid>http://localhost:60002/fr/homepage/minimal/</guid>
       <description></description>
     </item>
   </channel>

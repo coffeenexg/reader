@@ -2,241 +2,241 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reader | Hugo Personal Blog Template</title>
-    <link>http://localhost:59149/reader/site/fr/</link>
+    <link>http://localhost:60002/fr/</link>
     <description>Recent content on Reader | Hugo Personal Blog Template</description>
     <generator>Hugo</generator>
     <language>fr-fr</language>
     <lastBuildDate>Sun, 15 Mar 2020 15:40:24 +0600</lastBuildDate>
-    <atom:link href="http://localhost:59149/reader/site/fr/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:60002/fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Elements That You Can Use In This Template.</title>
-      <link>http://localhost:59149/reader/site/fr/post/elements/</link>
+      <link>http://localhost:60002/fr/post/elements/</link>
       <pubDate>Sun, 15 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/post/elements/</guid>
+      <guid>http://localhost:60002/fr/post/elements/</guid>
       <description>&lt;details class=&#34;table-of-content&#34;&gt;&#xA;  &lt;summary&gt;Table Of Contents&lt;/summary&gt;&#xA;  &lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ol&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#heading-2&#34;&gt;Heading 2&lt;/a&gt;&#xA;      &lt;ol&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#heading-3&#34;&gt;Heading 3&lt;/a&gt;&#xA;          &lt;ol&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#heading-4&#34;&gt;Heading 4&lt;/a&gt;&#xA;              &lt;ol&gt;&#xA;                &lt;li&gt;&lt;a href=&#34;#heading-5&#34;&gt;Heading 5&lt;/a&gt;&lt;/li&gt;&#xA;              &lt;/ol&gt;&#xA;            &lt;/li&gt;&#xA;          &lt;/ol&gt;&#xA;        &lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#emphasis&#34;&gt;Emphasis&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#link&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#paragraph&#34;&gt;Paragraph&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#ordered-list&#34;&gt;Ordered List&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#unordered-list&#34;&gt;Unordered List&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#notice&#34;&gt;Notice&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#tab&#34;&gt;Tab&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#collapse&#34;&gt;Collapse&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#code-and-syntax-highlighting&#34;&gt;Code and Syntax Highlighting&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#blockquote&#34;&gt;Blockquote&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#inline-html&#34;&gt;Inline HTML&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#codepen&#34;&gt;Codepen&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#tables&#34;&gt;Tables&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#image&#34;&gt;Image&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#gallery&#34;&gt;Gallery&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#youtube-video&#34;&gt;Youtube video&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#custom-video&#34;&gt;Custom video&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;/ol&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ol&gt;&#xA;&lt;/nav&gt;&#xA;&lt;/details&gt;&#xA;&#xA;&lt;p&gt;Here is an example of headings. You can use this heading by the following markdown rules. For example: use &lt;code&gt;#&lt;/code&gt; for heading 1 and use &lt;code&gt;######&lt;/code&gt; for heading 6.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Advice From a Twenty Something</title>
-      <link>http://localhost:59149/reader/site/fr/post/post-3/</link>
+      <link>http://localhost:60002/fr/post/post-3/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/post/post-3/</guid>
+      <guid>http://localhost:60002/fr/post/post-3/</guid>
       <description>&lt;p&gt;It’s no secret that the digital industry is booming. From exciting startups to global brands, companies&#xA;are reaching out to digital agencies, responding to the new possibilities available. However, the industry&#xA;is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.&#xA;Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to&#xA;innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at&lt;/p&gt;</description>
     </item>
     <item>
       <title>Advice From a Twenty Something</title>
-      <link>http://localhost:59149/reader/site/fr/post/post-7/</link>
+      <link>http://localhost:60002/fr/post/post-7/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/post/post-7/</guid>
+      <guid>http://localhost:60002/fr/post/post-7/</guid>
       <description>&lt;p&gt;It’s no secret that the digital industry is booming. From exciting startups to global brands, companies&#xA;are reaching out to digital agencies, responding to the new possibilities available. However, the industry&#xA;is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.&#xA;Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to&#xA;innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at&lt;/p&gt;</description>
     </item>
     <item>
       <title>Cheerful Loving Couple Bakers Drinking Coffee</title>
-      <link>http://localhost:59149/reader/site/fr/post/post-6/</link>
+      <link>http://localhost:60002/fr/post/post-6/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/post/post-6/</guid>
+      <guid>http://localhost:60002/fr/post/post-6/</guid>
       <description>&lt;p&gt;It’s no secret that the digital industry is booming. From exciting startups to global brands, companies&#xA;are reaching out to digital agencies, responding to the new possibilities available. However, the industry&#xA;is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.&#xA;Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to&#xA;innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at&lt;/p&gt;</description>
     </item>
     <item>
       <title>How To Make Cupcakes and Cashmere Recipe At Home</title>
-      <link>http://localhost:59149/reader/site/fr/post/post-5/</link>
+      <link>http://localhost:60002/fr/post/post-5/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/post/post-5/</guid>
+      <guid>http://localhost:60002/fr/post/post-5/</guid>
       <description>&lt;p&gt;It’s no secret that the digital industry is booming. From exciting startups to global brands, companies&#xA;are reaching out to digital agencies, responding to the new possibilities available. However, the industry&#xA;is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.&#xA;Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to&#xA;innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at&lt;/p&gt;</description>
     </item>
     <item>
       <title>How To Make Cupcakes and Cashmere Recipe At Home</title>
-      <link>http://localhost:59149/reader/site/fr/post/post-8/</link>
+      <link>http://localhost:60002/fr/post/post-8/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/post/post-8/</guid>
+      <guid>http://localhost:60002/fr/post/post-8/</guid>
       <description>&lt;p&gt;It’s no secret that the digital industry is booming. From exciting startups to global brands, companies&#xA;are reaching out to digital agencies, responding to the new possibilities available. However, the industry&#xA;is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.&#xA;Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to&#xA;innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Design Files - Homes Minimalist</title>
-      <link>http://localhost:59149/reader/site/fr/post/post-2/</link>
+      <link>http://localhost:60002/fr/post/post-2/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/post/post-2/</guid>
+      <guid>http://localhost:60002/fr/post/post-2/</guid>
       <description>&lt;p&gt;It’s no secret that the digital industry is booming. From exciting startups to global brands, companies&#xA;are reaching out to digital agencies, responding to the new possibilities available. However, the industry&#xA;is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.&#xA;Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to&#xA;innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Skinny Confidential</title>
-      <link>http://localhost:59149/reader/site/fr/post/post-4/</link>
+      <link>http://localhost:60002/fr/post/post-4/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/post/post-4/</guid>
+      <guid>http://localhost:60002/fr/post/post-4/</guid>
       <description>&lt;p&gt;It’s no secret that the digital industry is booming. From exciting startups to global brands, companies&#xA;are reaching out to digital agencies, responding to the new possibilities available. However, the industry&#xA;is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.&#xA;Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to&#xA;innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at&lt;/p&gt;</description>
     </item>
     <item>
       <title>Use apples to give your bakes caramel and a moist texture</title>
-      <link>http://localhost:59149/reader/site/fr/post/post-1/</link>
+      <link>http://localhost:60002/fr/post/post-1/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/post/post-1/</guid>
+      <guid>http://localhost:60002/fr/post/post-1/</guid>
       <description>&lt;p&gt;It’s no secret that the digital industry is booming. From exciting startups to global brands, companies&#xA;are reaching out to digital agencies, responding to the new possibilities available. However, the industry&#xA;is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.&#xA;Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to&#xA;innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at&lt;/p&gt;</description>
     </item>
     <item>
       <title>404 Page Not Found</title>
-      <link>http://localhost:59149/reader/site/fr/404/</link>
+      <link>http://localhost:60002/fr/404/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/404/</guid>
+      <guid>http://localhost:60002/fr/404/</guid>
       <description></description>
     </item>
     <item>
       <title>About Me</title>
-      <link>http://localhost:59149/reader/site/fr/about-me/</link>
+      <link>http://localhost:60002/fr/about-me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/about-me/</guid>
+      <guid>http://localhost:60002/fr/about-me/</guid>
       <description>&lt;h2 id=&#34;helllo-im-richi-andorn-im-a-biography-based-researcher-and-author&#34;&gt;Helllo I’m Richi Andorn I’m a Biography Based researcher And Author&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Velit massa vitae felis augue. In venenatis scelerisque accumsan egestas mattis. Massa feugiat in sem pellentesque.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Us</title>
-      <link>http://localhost:59149/reader/site/fr/about-us/</link>
+      <link>http://localhost:60002/fr/about-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/about-us/</guid>
+      <guid>http://localhost:60002/fr/about-us/</guid>
       <description>&lt;h2 id=&#34;what-is-the-main-mission-of-mine-and-what-i-wanna-do&#34;&gt;What is the main mission of mine and what i wanna do?&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Charls Xaviar</title>
-      <link>http://localhost:59149/reader/site/fr/author/charls-xaviar/</link>
+      <link>http://localhost:60002/fr/author/charls-xaviar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/author/charls-xaviar/</guid>
+      <guid>http://localhost:60002/fr/author/charls-xaviar/</guid>
       <description>&lt;p&gt;Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact Us</title>
-      <link>http://localhost:59149/reader/site/fr/contact/</link>
+      <link>http://localhost:60002/fr/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/contact/</guid>
+      <guid>http://localhost:60002/fr/contact/</guid>
       <description>&lt;h2 id=&#34;we-would-love-to-hear-from-you&#34;&gt;We would Love To Hear From You&amp;hellip;.&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Velit massa vitae felis augue. In venenatis scelerisque accumsan egestas mattis. Massa feugiat in sem pellentesque.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Danny Mark</title>
-      <link>http://localhost:59149/reader/site/fr/author/danny-mark/</link>
+      <link>http://localhost:60002/fr/author/danny-mark/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/author/danny-mark/</guid>
+      <guid>http://localhost:60002/fr/author/danny-mark/</guid>
       <description>&lt;p&gt;Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Elements</title>
-      <link>http://localhost:59149/reader/site/fr/elements/</link>
+      <link>http://localhost:60002/fr/elements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/elements/</guid>
+      <guid>http://localhost:60002/fr/elements/</guid>
       <description>&lt;details class=&#34;table-of-content&#34;&gt;&#xA;  &lt;summary&gt;Table Of Contents&lt;/summary&gt;&#xA;  &lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ol&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#heading-2&#34;&gt;Heading 2&lt;/a&gt;&#xA;      &lt;ol&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#heading-3&#34;&gt;Heading 3&lt;/a&gt;&#xA;          &lt;ol&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#heading-4&#34;&gt;Heading 4&lt;/a&gt;&#xA;              &lt;ol&gt;&#xA;                &lt;li&gt;&lt;a href=&#34;#heading-5&#34;&gt;Heading 5&lt;/a&gt;&lt;/li&gt;&#xA;              &lt;/ol&gt;&#xA;            &lt;/li&gt;&#xA;          &lt;/ol&gt;&#xA;        &lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#emphasis&#34;&gt;Emphasis&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#link&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#paragraph&#34;&gt;Paragraph&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#ordered-list&#34;&gt;Ordered List&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#unordered-list&#34;&gt;Unordered List&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#notice&#34;&gt;Notice&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#tab&#34;&gt;Tab&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#collapse&#34;&gt;Collapse&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#code-and-syntax-highlighting&#34;&gt;Code and Syntax Highlighting&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#blockquote&#34;&gt;Blockquote&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#inline-html&#34;&gt;Inline HTML&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#codepen&#34;&gt;Codepen&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#tables&#34;&gt;Tables&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#image&#34;&gt;Image&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#gallery&#34;&gt;Gallery&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#youtube-video&#34;&gt;Youtube video&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#custom-video&#34;&gt;Custom video&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;/ol&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ol&gt;&#xA;&lt;/nav&gt;&#xA;&lt;/details&gt;&#xA;&#xA;&lt;p&gt;Here is an example of headings. You can use this heading by the following markdown rules. For example: use &lt;code&gt;#&lt;/code&gt; for heading 1 and use &lt;code&gt;######&lt;/code&gt; for heading 6.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Homepage Full</title>
-      <link>http://localhost:59149/reader/site/fr/homepage/full/</link>
+      <link>http://localhost:60002/fr/homepage/full/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/homepage/full/</guid>
+      <guid>http://localhost:60002/fr/homepage/full/</guid>
       <description></description>
     </item>
     <item>
       <title>Homepage Full Left</title>
-      <link>http://localhost:59149/reader/site/fr/homepage/full-left/</link>
+      <link>http://localhost:60002/fr/homepage/full-left/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/homepage/full-left/</guid>
+      <guid>http://localhost:60002/fr/homepage/full-left/</guid>
       <description></description>
     </item>
     <item>
       <title>Homepage Full Right</title>
-      <link>http://localhost:59149/reader/site/fr/homepage/full-right/</link>
+      <link>http://localhost:60002/fr/homepage/full-right/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/homepage/full-right/</guid>
+      <guid>http://localhost:60002/fr/homepage/full-right/</guid>
       <description></description>
     </item>
     <item>
       <title>Homepage Grid</title>
-      <link>http://localhost:59149/reader/site/fr/homepage/grid/</link>
+      <link>http://localhost:60002/fr/homepage/grid/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/homepage/grid/</guid>
+      <guid>http://localhost:60002/fr/homepage/grid/</guid>
       <description></description>
     </item>
     <item>
       <title>Homepage Grid Left</title>
-      <link>http://localhost:59149/reader/site/fr/homepage/grid-left/</link>
+      <link>http://localhost:60002/fr/homepage/grid-left/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/homepage/grid-left/</guid>
+      <guid>http://localhost:60002/fr/homepage/grid-left/</guid>
       <description></description>
     </item>
     <item>
       <title>Homepage Grid Right</title>
-      <link>http://localhost:59149/reader/site/fr/homepage/grid-right/</link>
+      <link>http://localhost:60002/fr/homepage/grid-right/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/homepage/grid-right/</guid>
+      <guid>http://localhost:60002/fr/homepage/grid-right/</guid>
       <description></description>
     </item>
     <item>
       <title>Homepage List</title>
-      <link>http://localhost:59149/reader/site/fr/homepage/list/</link>
+      <link>http://localhost:60002/fr/homepage/list/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/homepage/list/</guid>
+      <guid>http://localhost:60002/fr/homepage/list/</guid>
       <description></description>
     </item>
     <item>
       <title>Homepage List Left</title>
-      <link>http://localhost:59149/reader/site/fr/homepage/list-left/</link>
+      <link>http://localhost:60002/fr/homepage/list-left/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/homepage/list-left/</guid>
+      <guid>http://localhost:60002/fr/homepage/list-left/</guid>
       <description></description>
     </item>
     <item>
       <title>Homepage List Right</title>
-      <link>http://localhost:59149/reader/site/fr/homepage/list-right/</link>
+      <link>http://localhost:60002/fr/homepage/list-right/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/homepage/list-right/</guid>
+      <guid>http://localhost:60002/fr/homepage/list-right/</guid>
       <description></description>
     </item>
     <item>
       <title>Homepage Minimal</title>
-      <link>http://localhost:59149/reader/site/fr/homepage/minimal/</link>
+      <link>http://localhost:60002/fr/homepage/minimal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/homepage/minimal/</guid>
+      <guid>http://localhost:60002/fr/homepage/minimal/</guid>
       <description></description>
     </item>
     <item>
       <title>John Doe</title>
-      <link>http://localhost:59149/reader/site/fr/author/john-doe/</link>
+      <link>http://localhost:60002/fr/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/author/john-doe/</guid>
+      <guid>http://localhost:60002/fr/author/john-doe/</guid>
       <description>&lt;p&gt;Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kate Stone</title>
-      <link>http://localhost:59149/reader/site/fr/author/kate-stone/</link>
+      <link>http://localhost:60002/fr/author/kate-stone/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/author/kate-stone/</guid>
+      <guid>http://localhost:60002/fr/author/kate-stone/</guid>
       <description>&lt;p&gt;Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mark Dinn</title>
-      <link>http://localhost:59149/reader/site/fr/author/mark-dinn/</link>
+      <link>http://localhost:60002/fr/author/mark-dinn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/author/mark-dinn/</guid>
+      <guid>http://localhost:60002/fr/author/mark-dinn/</guid>
       <description>&lt;p&gt;Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Our Privacy Policy</title>
-      <link>http://localhost:59149/reader/site/fr/privacy-policy/</link>
+      <link>http://localhost:60002/fr/privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/privacy-policy/</guid>
+      <guid>http://localhost:60002/fr/privacy-policy/</guid>
       <description>&lt;h4 id=&#34;responsibility-of-contributors&#34;&gt;Responsibility of Contributors&lt;/h4&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed&lt;/p&gt;</description>
     </item>
     <item>
       <title>Our Terms And Conditions</title>
-      <link>http://localhost:59149/reader/site/fr/terms-conditions/</link>
+      <link>http://localhost:60002/fr/terms-conditions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/terms-conditions/</guid>
+      <guid>http://localhost:60002/fr/terms-conditions/</guid>
       <description>&lt;h4 id=&#34;responsibility-of-contributors&#34;&gt;Responsibility of Contributors&lt;/h4&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed&lt;/p&gt;</description>
     </item>
     <item>
       <title>Scarlet Witch</title>
-      <link>http://localhost:59149/reader/site/fr/author/scarlet-witch/</link>
+      <link>http://localhost:60002/fr/author/scarlet-witch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/author/scarlet-witch/</guid>
+      <guid>http://localhost:60002/fr/author/scarlet-witch/</guid>
       <description>&lt;p&gt;Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Search Results</title>
-      <link>http://localhost:59149/reader/site/fr/search/</link>
+      <link>http://localhost:60002/fr/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:59149/reader/site/fr/search/</guid>
+      <guid>http://localhost:60002/fr/search/</guid>
       <description></description>
     </item>
   </channel>

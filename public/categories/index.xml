@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Reader | Hugo Personal Blog Template</title>
-    <link>http://localhost:59149/reader/site/categories/</link>
+    <link>http://localhost:60002/categories/</link>
     <description>Recent content in Categories on Reader | Hugo Personal Blog Template</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Mar 2020 15:40:24 +0600</lastBuildDate>
-    <atom:link href="http://localhost:59149/reader/site/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:60002/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Demo</title>
-      <link>http://localhost:59149/reader/site/categories/demo/</link>
+      <link>http://localhost:60002/categories/demo/</link>
       <pubDate>Sun, 15 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:59149/reader/site/categories/demo/</guid>
+      <guid>http://localhost:60002/categories/demo/</guid>
       <description></description>
     </item>
     <item>
       <title>Elements</title>
-      <link>http://localhost:59149/reader/site/categories/elements/</link>
+      <link>http://localhost:60002/categories/elements/</link>
       <pubDate>Sun, 15 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:59149/reader/site/categories/elements/</guid>
+      <guid>http://localhost:60002/categories/elements/</guid>
       <description></description>
     </item>
     <item>
       <title>Creativity</title>
-      <link>http://localhost:59149/reader/site/categories/creativity/</link>
+      <link>http://localhost:60002/categories/creativity/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:59149/reader/site/categories/creativity/</guid>
+      <guid>http://localhost:60002/categories/creativity/</guid>
       <description></description>
     </item>
     <item>
       <title>Food</title>
-      <link>http://localhost:59149/reader/site/categories/food/</link>
+      <link>http://localhost:60002/categories/food/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:59149/reader/site/categories/food/</guid>
+      <guid>http://localhost:60002/categories/food/</guid>
       <description></description>
     </item>
     <item>
       <title>Microwave</title>
-      <link>http://localhost:59149/reader/site/categories/microwave/</link>
+      <link>http://localhost:60002/categories/microwave/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:59149/reader/site/categories/microwave/</guid>
+      <guid>http://localhost:60002/categories/microwave/</guid>
       <description></description>
     </item>
     <item>
       <title>Natural</title>
-      <link>http://localhost:59149/reader/site/categories/natural/</link>
+      <link>http://localhost:60002/categories/natural/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:59149/reader/site/categories/natural/</guid>
+      <guid>http://localhost:60002/categories/natural/</guid>
       <description></description>
     </item>
     <item>
       <title>Newyork City</title>
-      <link>http://localhost:59149/reader/site/categories/newyork-city/</link>
+      <link>http://localhost:60002/categories/newyork-city/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:59149/reader/site/categories/newyork-city/</guid>
+      <guid>http://localhost:60002/categories/newyork-city/</guid>
       <description></description>
     </item>
     <item>
       <title>Nice</title>
-      <link>http://localhost:59149/reader/site/categories/nice/</link>
+      <link>http://localhost:60002/categories/nice/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:59149/reader/site/categories/nice/</guid>
+      <guid>http://localhost:60002/categories/nice/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
-      <link>http://localhost:59149/reader/site/categories/tech/</link>
+      <link>http://localhost:60002/categories/tech/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:59149/reader/site/categories/tech/</guid>
+      <guid>http://localhost:60002/categories/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>Videography</title>
-      <link>http://localhost:59149/reader/site/categories/videography/</link>
+      <link>http://localhost:60002/categories/videography/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:59149/reader/site/categories/videography/</guid>
+      <guid>http://localhost:60002/categories/videography/</guid>
       <description></description>
     </item>
     <item>
       <title>Vlog</title>
-      <link>http://localhost:59149/reader/site/categories/vlog/</link>
+      <link>http://localhost:60002/categories/vlog/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:59149/reader/site/categories/vlog/</guid>
+      <guid>http://localhost:60002/categories/vlog/</guid>
       <description></description>
     </item>
     <item>
       <title>Wondarland</title>
-      <link>http://localhost:59149/reader/site/categories/wondarland/</link>
+      <link>http://localhost:60002/categories/wondarland/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:59149/reader/site/categories/wondarland/</guid>
+      <guid>http://localhost:60002/categories/wondarland/</guid>
       <description></description>
     </item>
   </channel>
