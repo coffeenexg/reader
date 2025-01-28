@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Reader | Hugo Personal Blog Template</title>
+    <link>http://localhost:59149/reader/site/post/</link>
+    <description>Recent content in Blogs on Reader | Hugo Personal Blog Template</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Mar 2020 15:40:24 +0600</lastBuildDate>
+    <atom:link href="http://localhost:59149/reader/site/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Elements That You Can Use In This Template.</title>
+      <link>http://localhost:59149/reader/site/post/elements/</link>
+      <pubDate>Sun, 15 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>http://localhost:59149/reader/site/post/elements/</guid>
+      <description>&lt;details class=&#34;table-of-content&#34;&gt;&#xA;  &lt;summary&gt;Table Of Contents&lt;/summary&gt;&#xA;  &lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ol&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#heading-2&#34;&gt;Heading 2&lt;/a&gt;&#xA;      &lt;ol&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#heading-3&#34;&gt;Heading 3&lt;/a&gt;&#xA;          &lt;ol&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#heading-4&#34;&gt;Heading 4&lt;/a&gt;&#xA;              &lt;ol&gt;&#xA;                &lt;li&gt;&lt;a href=&#34;#heading-5&#34;&gt;Heading 5&lt;/a&gt;&lt;/li&gt;&#xA;              &lt;/ol&gt;&#xA;            &lt;/li&gt;&#xA;          &lt;/ol&gt;&#xA;        &lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#emphasis&#34;&gt;Emphasis&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#link&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#paragraph&#34;&gt;Paragraph&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#ordered-list&#34;&gt;Ordered List&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#unordered-list&#34;&gt;Unordered List&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#notice&#34;&gt;Notice&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#tab&#34;&gt;Tab&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#collapse&#34;&gt;Collapse&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#code-and-syntax-highlighting&#34;&gt;Code and Syntax Highlighting&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#blockquote&#34;&gt;Blockquote&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#inline-html&#34;&gt;Inline HTML&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#codepen&#34;&gt;Codepen&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#tables&#34;&gt;Tables&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#image&#34;&gt;Image&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#gallery&#34;&gt;Gallery&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#youtube-video&#34;&gt;Youtube video&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#custom-video&#34;&gt;Custom video&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;/ol&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ol&gt;&#xA;&lt;/nav&gt;&#xA;&lt;/details&gt;&#xA;&#xA;&lt;p&gt;Here is an example of headings. You can use this heading by the following markdown rules. For example: use &lt;code&gt;#&lt;/code&gt; for heading 1 and use &lt;code&gt;######&lt;/code&gt; for heading 6.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Advice From a Twenty Something</title>
+      <link>http://localhost:59149/reader/site/post/post-3/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>http://localhost:59149/reader/site/post/post-3/</guid>
+      <description>&lt;p&gt;It’s no secret that the digital industry is booming. From exciting startups to global brands, companies&#xA;are reaching out to digital agencies, responding to the new possibilities available. However, the industry&#xA;is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.&#xA;Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to&#xA;innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Advice From a Twenty Something</title>
+      <link>http://localhost:59149/reader/site/post/post-7/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>http://localhost:59149/reader/site/post/post-7/</guid>
+      <description>&lt;p&gt;It’s no secret that the digital industry is booming. From exciting startups to global brands, companies&#xA;are reaching out to digital agencies, responding to the new possibilities available. However, the industry&#xA;is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.&#xA;Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to&#xA;innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cheerful Loving Couple Bakers Drinking Coffee</title>
+      <link>http://localhost:59149/reader/site/post/post-6/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>http://localhost:59149/reader/site/post/post-6/</guid>
+      <description>&lt;p&gt;It’s no secret that the digital industry is booming. From exciting startups to global brands, companies&#xA;are reaching out to digital agencies, responding to the new possibilities available. However, the industry&#xA;is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.&#xA;Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to&#xA;innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How To Make Cupcakes and Cashmere Recipe At Home</title>
+      <link>http://localhost:59149/reader/site/post/post-5/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>http://localhost:59149/reader/site/post/post-5/</guid>
+      <description>&lt;p&gt;It’s no secret that the digital industry is booming. From exciting startups to global brands, companies&#xA;are reaching out to digital agencies, responding to the new possibilities available. However, the industry&#xA;is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.&#xA;Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to&#xA;innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How To Make Cupcakes and Cashmere Recipe At Home</title>
+      <link>http://localhost:59149/reader/site/post/post-8/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>http://localhost:59149/reader/site/post/post-8/</guid>
+      <description>&lt;p&gt;It’s no secret that the digital industry is booming. From exciting startups to global brands, companies&#xA;are reaching out to digital agencies, responding to the new possibilities available. However, the industry&#xA;is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.&#xA;Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to&#xA;innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Design Files - Homes Minimalist</title>
+      <link>http://localhost:59149/reader/site/post/post-2/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>http://localhost:59149/reader/site/post/post-2/</guid>
+      <description>&lt;p&gt;It’s no secret that the digital industry is booming. From exciting startups to global brands, companies&#xA;are reaching out to digital agencies, responding to the new possibilities available. However, the industry&#xA;is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.&#xA;Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to&#xA;innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Skinny Confidential</title>
+      <link>http://localhost:59149/reader/site/post/post-4/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>http://localhost:59149/reader/site/post/post-4/</guid>
+      <description>&lt;p&gt;It’s no secret that the digital industry is booming. From exciting startups to global brands, companies&#xA;are reaching out to digital agencies, responding to the new possibilities available. However, the industry&#xA;is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.&#xA;Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to&#xA;innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Use apples to give your bakes caramel and a moist texture</title>
+      <link>http://localhost:59149/reader/site/post/post-1/</link>
+      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
+      <guid>http://localhost:59149/reader/site/post/post-1/</guid>
+      <description>&lt;p&gt;It’s no secret that the digital industry is booming. From exciting startups to global brands, companies&#xA;are reaching out to digital agencies, responding to the new possibilities available. However, the industry&#xA;is fast becoming overcrowded, heaving with agencies offering similar services — on the surface, at least.&#xA;Producing creative, fresh projects is the key to standing out. Unique side projects are the best place to&#xA;innovate, but balancing commercially and creatively lucrative work is tricky. So, this article looks at&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

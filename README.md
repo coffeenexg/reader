@@ -1,2 +1,4 @@
-# reader
-Jamstack Site build with Hugo
+# Readers
+
+---
+Built with Hugo
