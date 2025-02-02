@@ -38,3 +38,25 @@ heading = "Qu'aimeriez-vous <br> lire aujourd'hui"
 title = "Salut, je suis Alex!"
 image = "images/author.jpg"
 bio = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vel in in donec iaculis tempus odio nunc laoreet . Libero ullamcorper."
+
+# ----------------------------------------------------------------
+# ID language
+# ----------------------------------------------------------------
+[id]
+languageName = "Id"
+languageCode = "id-id"
+contentDir = "content/id"
+weight = 1
+
+# banner
+[id.params.banner]
+enable = true
+heading = "What Would You <br> Like To Read Today?"
+
+[id.params.about_me]
+# About widget
+title = "Hi, I am Alex!"
+image = "images/author.jpg"
+bio = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vel in in donec iaculis tempus odio nunc laoreet . Libero ullamcorper."
+
+
