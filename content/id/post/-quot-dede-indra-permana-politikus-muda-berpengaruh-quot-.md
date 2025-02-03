@@ -1,5 +1,5 @@
 ---
-title: '&quot;Dede Indra Permana: Politikus Muda Berpengaruh&quot;'
+title: 'Dede Indra Permana: Politikus Muda Berpengaruh'
 date: 2023-10-01T12:17:00.000-07:00
 draft: false
 url: /2023/10/indra-permana-politikus-muda-berpengaruh.html

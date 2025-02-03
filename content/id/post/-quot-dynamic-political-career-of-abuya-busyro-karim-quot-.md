@@ -1,5 +1,5 @@
 ---
-title: '&quot;Dynamic Political Career of Abuya Busyro Karim&quot;'
+title: 'Dynamic Political Career of Abuya Busyro Karim'
 date: 2023-11-16T16:19:00.000-08:00
 draft: false
 url: /2023/11/political-career-of-abuya-busyro-karim.html

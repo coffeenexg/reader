@@ -1,5 +1,5 @@
 ---
-title: '&quot;Esau Miram: A Politician&#39;s Journey&quot;'
+title: 'Esau Miram: A Politician&#39;s Journey'
 date: 2023-10-18T06:11:00.000-07:00
 draft: false
 url: /2023/10/miram-politician-journey.html

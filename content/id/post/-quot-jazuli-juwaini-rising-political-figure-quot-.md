@@ -1,5 +1,5 @@
 ---
-title: '&quot;Jazuli Juwaini: Rising Political Figure&quot;'
+title: 'Jazuli Juwaini: Rising Political Figure'
 date: 2023-12-20T02:36:00.000-08:00
 draft: false
 url: /2023/12/juwaini-rising-political-figure.html

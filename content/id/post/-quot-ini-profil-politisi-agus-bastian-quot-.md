@@ -1,5 +1,5 @@
 ---
-title: '&quot;Ini Profil Politisi Agus Bastian&quot;'
+title: 'Ini Profil Politisi Agus Bastian'
 date: 2023-08-30T13:45:00.000-07:00
 draft: false
 url: /2023/08/profil-politisi-agus-bastian.html

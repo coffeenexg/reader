@@ -1,5 +1,5 @@
 ---
-title: '&quot;Dynamic Politics: Kaharuddin Nasution&quot;'
+title: 'Dynamic Politics: Kaharuddin Nasution'
 date: 2023-11-13T14:17:00.000-08:00
 draft: false
 url: /2023/11/politics-kaharuddin-nasution.html

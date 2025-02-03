@@ -1,5 +1,5 @@
 ---
-title: '&quot;Karir dan Kontroversi Rachel Maryam&quot;'
+title: 'Karir dan Kontroversi Rachel Maryam'
 date: 2023-09-10T08:12:00.000-07:00
 draft: false
 url: /2023/09/dan-kontroversi-rachel-maryam.html

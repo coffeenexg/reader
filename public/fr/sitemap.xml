@@ -1,727 +1,481 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://localhost:60002/fr/post/</loc>
-    <lastmod>2020-03-15T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/post/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/categories/</loc>
-    <lastmod>2020-03-15T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/tags/demo/</loc>
-    <lastmod>2020-03-15T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/tags/demo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/tags/demo/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/categories/demo/</loc>
-    <lastmod>2020-03-15T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/categories/demo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/categories/demo/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/tags/elements/</loc>
-    <lastmod>2020-03-15T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/tags/elements/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/tags/elements/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/categories/elements/</loc>
-    <lastmod>2020-03-15T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/categories/elements/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/categories/elements/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/post/elements/</loc>
-    <lastmod>2020-03-15T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/post/elements/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/post/elements/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/</loc>
-    <lastmod>2020-03-15T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/tags/</loc>
-    <lastmod>2020-03-15T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/tags/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/post/post-3/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/post/post-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/post/post-3/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/post/post-7/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/post/post-7/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/post/post-7/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/post/post-6/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/post/post-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/post/post-6/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/tags/city/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/tags/city/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/tags/city/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/tags/color/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/tags/color/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/tags/color/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/tags/creative/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/tags/creative/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/tags/creative/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/categories/creativity/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/categories/creativity/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/categories/creativity/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/tags/decorate/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/tags/decorate/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/tags/decorate/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/tags/fish/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/tags/fish/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/tags/fish/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/tags/food/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/tags/food/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/tags/food/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/categories/food/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/categories/food/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/categories/food/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/post/post-5/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/post/post-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/post/post-5/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/post/post-8/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/post/post-8/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/post/post-8/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/categories/microwave/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/categories/microwave/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/categories/microwave/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/categories/natural/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/categories/natural/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/categories/natural/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/categories/newyork-city/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/categories/newyork-city/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/categories/newyork-city/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/tags/nice/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/tags/nice/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/tags/nice/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/categories/nice/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/categories/nice/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/categories/nice/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/tags/recipe/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/tags/recipe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/tags/recipe/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/tags/season/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/tags/season/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/tags/season/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/tags/taste/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/tags/taste/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/tags/taste/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/tags/tasty/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/tags/tasty/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/tags/tasty/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/categories/tech/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/categories/tech/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/categories/tech/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/post/post-2/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/post/post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/post/post-2/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/post/post-4/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/post/post-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/post/post-4/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/post/post-1/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/post/post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/post/post-1/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/categories/videography/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/categories/videography/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/categories/videography/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/tags/vlog/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/tags/vlog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/tags/vlog/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/categories/vlog/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/categories/vlog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/categories/vlog/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/categories/wondarland/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/categories/wondarland/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/categories/wondarland/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/tags/wow/</loc>
-    <lastmod>2020-03-14T15:40:24+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/tags/wow/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/tags/wow/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/404/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/404/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/404/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/about-me/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/about-me/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/about-me/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/about-us/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/about-us/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/about-us/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/author/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/author/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/author/charls-xaviar/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/author/charls-xaviar/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/author/charls-xaviar/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/contact/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/author/danny-mark/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/author/danny-mark/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/author/danny-mark/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/elements/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/elements/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/elements/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/homepage/full/</loc>
-  </url><url>
-    <loc>http://localhost:60002/fr/homepage/full-left/</loc>
-  </url><url>
-    <loc>http://localhost:60002/fr/homepage/full-right/</loc>
-  </url><url>
-    <loc>http://localhost:60002/fr/homepage/grid/</loc>
-  </url><url>
-    <loc>http://localhost:60002/fr/homepage/grid-left/</loc>
-  </url><url>
-    <loc>http://localhost:60002/fr/homepage/grid-right/</loc>
-  </url><url>
-    <loc>http://localhost:60002/fr/homepage/list/</loc>
-  </url><url>
-    <loc>http://localhost:60002/fr/homepage/list-left/</loc>
-  </url><url>
-    <loc>http://localhost:60002/fr/homepage/list-right/</loc>
-  </url><url>
-    <loc>http://localhost:60002/fr/homepage/minimal/</loc>
-  </url><url>
-    <loc>http://localhost:60002/fr/homepage/</loc>
-  </url><url>
-    <loc>http://localhost:60002/fr/author/john-doe/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/author/john-doe/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/author/john-doe/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/author/kate-stone/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/author/kate-stone/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/author/kate-stone/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/author/mark-dinn/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/author/mark-dinn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/author/mark-dinn/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/privacy-policy/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/privacy-policy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/privacy-policy/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/terms-conditions/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/terms-conditions/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/terms-conditions/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/author/scarlet-witch/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/author/scarlet-witch/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/author/scarlet-witch/"
-                />
-  </url><url>
-    <loc>http://localhost:60002/fr/search/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:60002/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="http://localhost:60002/fr/search/"
-                />
-  </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/post/</loc>
+      
+        <lastmod>2020-03-15T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/categories/</loc>
+      
+        <lastmod>2020-03-15T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/tags/demo/</loc>
+      
+        <lastmod>2020-03-15T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/categories/demo/</loc>
+      
+        <lastmod>2020-03-15T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/tags/elements/</loc>
+      
+        <lastmod>2020-03-15T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/categories/elements/</loc>
+      
+        <lastmod>2020-03-15T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/post/elements/</loc>
+      
+        <lastmod>2020-03-15T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/</loc>
+      
+        <lastmod>2020-03-15T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/tags/</loc>
+      
+        <lastmod>2020-03-15T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/post/post-3/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/post/post-7/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/post/post-6/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/tags/city/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/tags/color/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/tags/creative/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/categories/creativity/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/tags/decorate/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/tags/fish/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/tags/food/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/categories/food/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/post/post-5/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/post/post-8/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/categories/microwave/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/categories/natural/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/categories/newyork-city/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/tags/nice/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/categories/nice/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/tags/recipe/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/tags/season/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/tags/taste/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/tags/tasty/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/categories/tech/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/post/post-2/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/post/post-4/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/post/post-1/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/categories/videography/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/tags/vlog/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/categories/vlog/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/categories/wondarland/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/tags/wow/</loc>
+      
+        <lastmod>2020-03-14T15:40:24+06:00</lastmod>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/404/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/about-me/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/about-us/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/author/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/author/charls-xaviar/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/contact/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/author/danny-mark/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/elements/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/homepage/full/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/homepage/full-left/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/homepage/full-right/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/homepage/grid/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/homepage/grid-left/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/homepage/grid-right/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/homepage/list/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/homepage/list-left/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/homepage/list-right/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/homepage/minimal/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/homepage/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/author/john-doe/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/author/kate-stone/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/author/mark-dinn/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/privacy-policy/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/terms-conditions/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/author/scarlet-witch/</loc>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://moudy.netlify.app/http://localhost:1313/fr/search/</loc>
+      
+      
+    </url>
+  
 </urlset>

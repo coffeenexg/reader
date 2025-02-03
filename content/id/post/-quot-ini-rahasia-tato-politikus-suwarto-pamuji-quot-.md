@@ -1,5 +1,5 @@
 ---
-title: '&quot;Ini Rahasia Tato Politikus: Suwarto Pamuji&quot;'
+title: 'Ini Rahasia Tato Politikus: Suwarto Pamuji'
 date: 2023-08-30T15:32:00.000-07:00
 draft: false
 url: /2023/08/rahasia-tato-politikus-suwarto-pamuji.html

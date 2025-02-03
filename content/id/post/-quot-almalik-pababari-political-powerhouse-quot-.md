@@ -1,5 +1,5 @@
 ---
-title: '&quot;Almalik Pababari: Political Powerhouse&quot;'
+title: 'Almalik Pababari: Political Powerhouse'
 date: 2023-08-25T02:41:00.000-07:00
 draft: false
 url: /2023/08/pababari-political-powerhouse.html

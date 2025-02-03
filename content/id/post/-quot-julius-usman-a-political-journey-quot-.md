@@ -1,5 +1,5 @@
 ---
-title: '&quot;Julius Usman: A Political Journey&quot;'
+title: 'Julius Usman: A Political Journey'
 date: 2023-12-11T11:33:00.000-08:00
 draft: false
 url: /2023/12/usman-political-journey.html

@@ -1,5 +1,5 @@
 ---
-title: '&quot;Dynamic Politics: Exploring Djusril Djusan&#39;s Impact&quot;'
+title: 'Dynamic Politics: Exploring Djusril Djusan&#39;s Impact'
 date: 2023-09-18T07:03:00.000-07:00
 draft: false
 url: /2023/09/politics-exploring-djusril-djusan-impact.html

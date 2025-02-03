@@ -1,5 +1,5 @@
 ---
-title: '&quot;Ekspos Politikus Taslim Azis&quot;'
+title: 'Ekspos Politikus Taslim Azis'
 date: 2023-11-10T13:10:00.000-08:00
 draft: false
 url: /2023/11/politikus-taslim-azis.html
@@ -34,10 +34,6 @@ Dalam seri blog ini, kami akan membahas berbagai aspek dari kehidupan dan karier
   
 
 ![](https://i1.wp.com/ambonmanise.com/wp-content/uploads/2019/01/IMG-20190118-WA0002.jpg?resize=750%2C430&ssl=1)
-
-  
-
-Ekspos Politikus Taslim Azis
 
   
 

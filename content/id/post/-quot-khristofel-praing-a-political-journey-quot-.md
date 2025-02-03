@@ -1,5 +1,5 @@
 ---
-title: '&quot;Khristofel Praing: A Political Journey&quot;'
+title: 'Khristofel Praing: A Political Journey'
 date: 2023-10-24T09:52:00.000-07:00
 draft: false
 url: /2023/10/praing-political-journey.html

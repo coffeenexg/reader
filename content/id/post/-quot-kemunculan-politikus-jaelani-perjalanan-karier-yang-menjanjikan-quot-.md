@@ -1,5 +1,5 @@
 ---
-title: '&quot;Kemunculan Politikus Jaelani: Perjalanan Karier yang Menjanjikan&quot;'
+title: 'Kemunculan Politikus Jaelani: Perjalanan Karier yang Menjanjikan'
 date: 2023-08-27T18:08:00.000-07:00
 draft: false
 url: /2023/08/politikus-jaelani-perjalanan-karier.html

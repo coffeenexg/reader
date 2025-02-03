@@ -1,5 +1,5 @@
 ---
-title: '&quot;Dinamika Politikus Idris Sugeng&quot;'
+title: 'Dinamika Politikus Idris Sugeng'
 date: 2023-10-19T00:44:00.000-07:00
 draft: false
 url: /2023/10/politikus-idris-sugeng.html

@@ -1,5 +1,5 @@
 ---
-title: '&quot;Dynamic Politician Soerjadi&quot;'
+title: 'Dynamic Politician Soerjadi'
 date: 2023-12-17T18:36:00.000-08:00
 draft: false
 url: /2023/12/politician-soerjadi.html

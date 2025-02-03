@@ -1,5 +1,5 @@
 ---
-title: '&quot;Bahaya Politik Tengku Bay&quot;'
+title: 'Bahaya Politik Tengku Bay'
 date: 2023-08-24T04:46:00.000-07:00
 draft: false
 url: /2023/08/politik-tengku-bay.html

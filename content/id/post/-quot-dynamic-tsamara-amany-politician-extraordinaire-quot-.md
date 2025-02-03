@@ -1,5 +1,5 @@
 ---
-title: '&quot;Dynamic Tsamara Amany: Politician Extraordinaire&quot;'
+title: 'Dynamic Tsamara Amany: Politician Extraordinaire'
 date: 2023-11-01T22:23:00.000-07:00
 draft: false
 url: /2023/11/tsamara-amany-politician-extraordinaire.html
@@ -37,7 +37,7 @@ Bersiaplah untuk terinspirasi oleh perjalanan Tsamara Amany yang megah dan menak
 
   
 
-Dynamic Tsamara Amany: Politician Extraordinaire
+## Dynamic Tsamara Amany: Politician Extraordinaire
 
   
 

@@ -1,5 +1,5 @@
 ---
-title: '&quot;Dynamic Politics: Djatmikanto Danumartono&quot;'
+title: 'Dynamic Politics: Djatmikanto Danumartono'
 date: 2023-12-17T17:50:00.000-08:00
 draft: false
 url: /2023/12/politics-djatmikanto-danumartono.html

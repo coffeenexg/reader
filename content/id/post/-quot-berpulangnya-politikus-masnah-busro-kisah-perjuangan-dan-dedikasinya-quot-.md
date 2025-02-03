@@ -1,5 +1,5 @@
 ---
-title: '&quot;Berpulangnya Politikus Masnah Busro: Kisah Perjuangan dan Dedikasinya&quot;'
+title: 'Berpulangnya Politikus Masnah Busro: Kisah Perjuangan dan Dedikasinya'
 date: 2023-10-30T05:50:00.000-07:00
 draft: false
 url: /2023/10/politikus-masnah-busro-kisah-perjuangan.html

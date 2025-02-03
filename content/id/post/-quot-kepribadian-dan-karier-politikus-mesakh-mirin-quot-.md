@@ -1,5 +1,5 @@
 ---
-title: '&quot;Kepribadian dan Karier Politikus Mesakh Mirin&quot;'
+title: 'Kepribadian dan Karier Politikus Mesakh Mirin'
 date: 2023-08-22T01:39:00.000-07:00
 draft: false
 url: /2023/08/dan-karier-politikus-mesakh-mirin.html

@@ -1,5 +1,5 @@
 ---
-title: '&quot;Dibalik Karier Politikus Santoso: Misi, Pemikiran, dan Pengaruhnya&quot;'
+title: 'Dibalik Karier Politikus Santoso: Misi, Pemikiran, dan Pengaruhnya'
 date: 2023-12-03T07:39:00.000-08:00
 draft: false
 url: /2023/12/karier-politikus-santoso-misi-pemikiran.html

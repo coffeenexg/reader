@@ -2,115 +2,150 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Reader | Hugo Personal Blog Template</title>
-    <link>http://localhost:60002/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Reader | Hugo Personal Blog Template</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 15 Mar 2020 15:40:24 +0600</lastBuildDate>
-    <atom:link href="http://localhost:60002/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>id-id</language>
+    <lastBuildDate>Sat, 21 Dec 2024 22:16:00 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Info Tips</title>
+      <link>http://localhost:1313/tags/info-tips/</link>
+      <pubDate>Sat, 21 Dec 2024 22:16:00 -0800</pubDate>
+      <guid>http://localhost:1313/tags/info-tips/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Politik</title>
+      <link>http://localhost:1313/tags/politik/</link>
+      <pubDate>Fri, 29 Dec 2023 22:06:00 -0800</pubDate>
+      <guid>http://localhost:1313/tags/politik/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Lifestyle</title>
+      <link>http://localhost:1313/tags/lifestyle/</link>
+      <pubDate>Sat, 19 Aug 2023 15:51:00 -0700</pubDate>
+      <guid>http://localhost:1313/tags/lifestyle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/tags/news/</link>
+      <pubDate>Sat, 19 Aug 2023 04:34:00 -0700</pubDate>
+      <guid>http://localhost:1313/tags/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hiburan</title>
+      <link>http://localhost:1313/tags/hiburan/</link>
+      <pubDate>Sat, 19 Aug 2023 04:10:00 -0700</pubDate>
+      <guid>http://localhost:1313/tags/hiburan/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Demo</title>
-      <link>http://localhost:60002/tags/demo/</link>
+      <link>http://localhost:1313/tags/demo/</link>
       <pubDate>Sun, 15 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:60002/tags/demo/</guid>
+      <guid>http://localhost:1313/tags/demo/</guid>
       <description></description>
     </item>
     <item>
       <title>Elements</title>
-      <link>http://localhost:60002/tags/elements/</link>
+      <link>http://localhost:1313/tags/elements/</link>
       <pubDate>Sun, 15 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:60002/tags/elements/</guid>
+      <guid>http://localhost:1313/tags/elements/</guid>
       <description></description>
     </item>
     <item>
       <title>City</title>
-      <link>http://localhost:60002/tags/city/</link>
+      <link>http://localhost:1313/tags/city/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:60002/tags/city/</guid>
+      <guid>http://localhost:1313/tags/city/</guid>
       <description></description>
     </item>
     <item>
       <title>Color</title>
-      <link>http://localhost:60002/tags/color/</link>
+      <link>http://localhost:1313/tags/color/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:60002/tags/color/</guid>
+      <guid>http://localhost:1313/tags/color/</guid>
       <description></description>
     </item>
     <item>
       <title>Creative</title>
-      <link>http://localhost:60002/tags/creative/</link>
+      <link>http://localhost:1313/tags/creative/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:60002/tags/creative/</guid>
+      <guid>http://localhost:1313/tags/creative/</guid>
       <description></description>
     </item>
     <item>
       <title>Decorate</title>
-      <link>http://localhost:60002/tags/decorate/</link>
+      <link>http://localhost:1313/tags/decorate/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:60002/tags/decorate/</guid>
+      <guid>http://localhost:1313/tags/decorate/</guid>
       <description></description>
     </item>
     <item>
       <title>Fish</title>
-      <link>http://localhost:60002/tags/fish/</link>
+      <link>http://localhost:1313/tags/fish/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:60002/tags/fish/</guid>
+      <guid>http://localhost:1313/tags/fish/</guid>
       <description></description>
     </item>
     <item>
       <title>Food</title>
-      <link>http://localhost:60002/tags/food/</link>
+      <link>http://localhost:1313/tags/food/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:60002/tags/food/</guid>
+      <guid>http://localhost:1313/tags/food/</guid>
       <description></description>
     </item>
     <item>
       <title>Nice</title>
-      <link>http://localhost:60002/tags/nice/</link>
+      <link>http://localhost:1313/tags/nice/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:60002/tags/nice/</guid>
+      <guid>http://localhost:1313/tags/nice/</guid>
       <description></description>
     </item>
     <item>
       <title>Recipe</title>
-      <link>http://localhost:60002/tags/recipe/</link>
+      <link>http://localhost:1313/tags/recipe/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:60002/tags/recipe/</guid>
+      <guid>http://localhost:1313/tags/recipe/</guid>
       <description></description>
     </item>
     <item>
       <title>Season</title>
-      <link>http://localhost:60002/tags/season/</link>
+      <link>http://localhost:1313/tags/season/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:60002/tags/season/</guid>
+      <guid>http://localhost:1313/tags/season/</guid>
       <description></description>
     </item>
     <item>
       <title>Taste</title>
-      <link>http://localhost:60002/tags/taste/</link>
+      <link>http://localhost:1313/tags/taste/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:60002/tags/taste/</guid>
+      <guid>http://localhost:1313/tags/taste/</guid>
       <description></description>
     </item>
     <item>
       <title>Tasty</title>
-      <link>http://localhost:60002/tags/tasty/</link>
+      <link>http://localhost:1313/tags/tasty/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:60002/tags/tasty/</guid>
+      <guid>http://localhost:1313/tags/tasty/</guid>
       <description></description>
     </item>
     <item>
       <title>Vlog</title>
-      <link>http://localhost:60002/tags/vlog/</link>
+      <link>http://localhost:1313/tags/vlog/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:60002/tags/vlog/</guid>
+      <guid>http://localhost:1313/tags/vlog/</guid>
       <description></description>
     </item>
     <item>
       <title>Wow</title>
-      <link>http://localhost:60002/tags/wow/</link>
+      <link>http://localhost:1313/tags/wow/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>http://localhost:60002/tags/wow/</guid>
+      <guid>http://localhost:1313/tags/wow/</guid>
       <description></description>
     </item>
   </channel>

@@ -1,5 +1,5 @@
 ---
-title: '&quot;Bulyan Royan: Shaping Political Landscapes&quot;'
+title: 'Bulyan Royan: Shaping Political Landscapes'
 date: 2023-10-23T18:22:00.000-07:00
 draft: false
 url: /2023/10/royan-shaping-political-landscapes.html

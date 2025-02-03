@@ -1,5 +1,5 @@
 ---
-title: '&quot;Husaini A. Wahab: A Dynamic Politician&quot;'
+title: 'Husaini A. Wahab: A Dynamic Politician'
 date: 2023-12-28T00:39:00.000-08:00
 draft: false
 url: /2023/12/a-wahab-dynamic-politician.html

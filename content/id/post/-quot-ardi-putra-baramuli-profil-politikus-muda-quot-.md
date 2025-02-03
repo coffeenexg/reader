@@ -1,5 +1,5 @@
 ---
-title: '&quot;Ardi Putra Baramuli: Profil Politikus Muda&quot;'
+title: 'Ardi Putra Baramuli: Profil Politikus Muda'
 date: 2023-10-21T06:48:00.000-07:00
 draft: false
 url: /2023/10/putra-baramuli-profil-politikus-muda.html

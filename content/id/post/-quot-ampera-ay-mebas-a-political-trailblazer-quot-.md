@@ -1,5 +1,5 @@
 ---
-title: '&quot;Ampera A.Y. Mebas: A Political Trailblazer&quot;'
+title: 'Ampera A.Y. Mebas: A Political Trailblazer'
 date: 2023-10-20T05:38:00.000-07:00
 draft: false
 url: /2023/10/ay-mebas-political-trailblazer.html

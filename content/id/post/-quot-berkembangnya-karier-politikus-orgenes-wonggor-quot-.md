@@ -1,5 +1,5 @@
 ---
-title: '&quot;Berkembangnya Karier Politikus Orgenes Wonggor&quot;'
+title: 'Berkembangnya Karier Politikus Orgenes Wonggor'
 date: 2023-11-16T22:54:00.000-08:00
 draft: false
 url: /2023/11/karier-politikus-orgenes-wonggor.html

@@ -1,5 +1,5 @@
 ---
-title: '&quot;Karier Hebat Politikus Samsul Ashar&quot;'
+title: 'Karier Hebat Politikus Samsul Ashar'
 date: 2023-08-29T03:43:00.000-07:00
 draft: false
 url: /2023/08/hebat-politikus-samsul-ashar.html

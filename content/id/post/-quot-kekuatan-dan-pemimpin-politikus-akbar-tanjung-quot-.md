@@ -1,5 +1,5 @@
 ---
-title: '&quot;Kekuatan dan Pemimpin Politikus Akbar Tanjung&quot;'
+title: 'Kekuatan dan Pemimpin Politikus Akbar Tanjung'
 date: 2023-08-22T00:51:00.000-07:00
 draft: false
 url: /2023/08/dan-pemimpin-politikus-akbar-tanjung.html

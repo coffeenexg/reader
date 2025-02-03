@@ -1,5 +1,5 @@
 ---
-title: '&quot;Anna Sophana: Pemimpin Muda Berpengaruh&quot;'
+title: 'Anna Sophana: Pemimpin Muda Berpengaruh'
 date: 2023-09-04T06:07:00.000-07:00
 draft: false
 url: /2023/09/sophana-pemimpin-muda-berpengaruh.html

@@ -1,18 +1,11 @@
 ---
-title: '&quot;Arudji Kartawinata: A Political Journey&quot;'
+title: 'Arudji Kartawinata: A Political Journey'
 date: 2023-12-07T22:26:00.000-08:00
 draft: false
 url: /2023/12/kartawinata-political-journey.html
 tags: 
 - Politik
 ---
-
-  
-
-Arudji Kartawinata: Sebuah Perjalanan Politik
-
-  
-
 Seiring berjalannya waktu, politik telah menjadi pusat perhatian dalam kehidupan kita sehari-hari. Namun, di balik sorotan yang seringkali negatif ini, terdapat tokoh-tokoh yang menjalani perjalanan politik yang luar biasa. Salah satu dari mereka adalah Arudji Kartawinata, seorang pemimpin yang penuh dedikasi dan semangat untuk memperjuangkan kepentingan rakyat.
 
   

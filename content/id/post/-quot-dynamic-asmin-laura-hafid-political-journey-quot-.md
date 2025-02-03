@@ -1,5 +1,5 @@
 ---
-title: '&quot;Dynamic Asmin Laura Hafid: Political Journey&quot;'
+title: 'Dynamic Asmin Laura Hafid: Political Journey'
 date: 2023-12-19T00:18:00.000-08:00
 draft: false
 url: /2023/12/asmin-laura-hafid-political-journey.html

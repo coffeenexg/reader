@@ -1,5 +1,5 @@
 ---
-title: '&quot;Buddhist Politician Subur Budhisantoso: Nurturing Harmony in Politics&quot;'
+title: 'Buddhist Politician Subur Budhisantoso: Nurturing Harmony in Politics'
 date: 2023-10-24T19:14:00.000-07:00
 draft: false
 url: /2023/10/politician-subur-budhisantoso-nurturing.html

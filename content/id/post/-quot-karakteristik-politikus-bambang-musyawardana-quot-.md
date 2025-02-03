@@ -1,5 +1,5 @@
 ---
-title: '&quot;Karakteristik Politikus Bambang Musyawardana&quot;'
+title: 'Karakteristik Politikus Bambang Musyawardana'
 date: 2023-08-25T08:24:00.000-07:00
 draft: false
 url: /2023/08/politikus-bambang-musyawardana.html

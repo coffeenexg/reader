@@ -1,5 +1,5 @@
 ---
-title: '&quot;Inspirasi dari Politikus Rahmah: Mengabdi dengan Tulus&quot;'
+title: 'Inspirasi dari Politikus Rahmah: Mengabdi dengan Tulus'
 date: 2023-08-23T22:27:00.000-07:00
 draft: false
 url: /2023/08/dari-politikus-rahmah-mengabdi-dengan.html

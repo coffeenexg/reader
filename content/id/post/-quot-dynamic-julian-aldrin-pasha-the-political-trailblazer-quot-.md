@@ -1,5 +1,5 @@
 ---
-title: '&quot;Dynamic Julian Aldrin Pasha: The Political Trailblazer&quot;'
+title: 'Dynamic Julian Aldrin Pasha: The Political Trailblazer'
 date: 2023-09-13T02:12:00.000-07:00
 draft: false
 url: /2023/09/julian-aldrin-pasha-political.html

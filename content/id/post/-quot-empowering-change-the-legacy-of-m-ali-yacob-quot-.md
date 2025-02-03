@@ -1,5 +1,5 @@
 ---
-title: '&quot;Empowering Change: The Legacy of M. Ali Yacob&quot;'
+title: 'Empowering Change: The Legacy of M. Ali Yacob'
 date: 2023-11-17T02:25:00.000-08:00
 draft: false
 url: /2023/11/change-legacy-of-m-ali-yacob.html

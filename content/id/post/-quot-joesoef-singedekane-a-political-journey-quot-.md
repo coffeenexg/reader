@@ -1,5 +1,5 @@
 ---
-title: '&quot;Joesoef Singedekane: A Political Journey&quot;'
+title: 'Joesoef Singedekane: A Political Journey'
 date: 2023-11-12T02:39:00.000-08:00
 draft: false
 url: /2023/11/singedekane-political-journey.html

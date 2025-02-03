@@ -1,5 +1,5 @@
 ---
-title: '&quot;Dinamika Politikus Idrus Marham&quot;'
+title: 'Dinamika Politikus Idrus Marham'
 date: 2023-09-22T22:24:00.000-07:00
 draft: false
 url: /2023/09/politikus-idrus-marham.html

@@ -1,5 +1,5 @@
 ---
-title: '&quot;Empowering Political Leadership: Salawati Daud&#39;s Journey&quot;'
+title: 'Empowering Political Leadership: Salawati Daud&#39;s Journey'
 date: 2023-11-15T05:15:00.000-08:00
 draft: false
 url: /2023/11/political-leadership-salawati-daud.html
@@ -41,7 +41,7 @@ Dalam setiap langkahnya sebagai seorang pemimpin politik, Salawati Daud telah me
 
   
 
-Salawati Daud's Journey: Memperkuat Kepemimpinan Politik
+## Salawati Daud's Journey: Memperkuat Kepemimpinan Politik
 
   
 

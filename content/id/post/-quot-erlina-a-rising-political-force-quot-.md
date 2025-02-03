@@ -1,5 +1,5 @@
 ---
-title: '&quot;Erlina: A Rising Political Force&quot;'
+title: 'Erlina: A Rising Political Force'
 date: 2023-10-24T03:56:00.000-07:00
 draft: false
 url: /2023/10/a-rising-political-force.html

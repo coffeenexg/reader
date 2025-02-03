@@ -1,5 +1,5 @@
 ---
-title: '&quot;Dynamic Leader: Noor Nahar Hussein and Indonesian Politics&quot;'
+title: 'Dynamic Leader: Noor Nahar Hussein and Indonesian Politics'
 date: 2023-10-11T11:42:00.001-07:00
 draft: false
 url: /2023/10/leader-noor-nahar-hussein-and.html

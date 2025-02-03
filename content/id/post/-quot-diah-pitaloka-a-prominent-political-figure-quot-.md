@@ -1,5 +1,5 @@
 ---
-title: '&quot;Diah Pitaloka: A Prominent Political Figure&quot;'
+title: 'Diah Pitaloka: A Prominent Political Figure'
 date: 2023-11-20T05:20:00.000-08:00
 draft: false
 url: /2023/11/pitaloka-prominent-political-figure.html
@@ -41,7 +41,7 @@ Di balik karir dan pencapaian hebat Diah Pitaloka sebagai tokoh politik penting 
 
   
 
-Diah Pitaloka: Seorang Tokoh Politik Terkemuka
+## Diah Pitaloka: Seorang Tokoh Politik Terkemuka
 
   
 

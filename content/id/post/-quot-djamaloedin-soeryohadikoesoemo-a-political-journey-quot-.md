@@ -1,5 +1,5 @@
 ---
-title: '&quot;Djamaloedin Soeryohadikoesoemo: A Political Journey&quot;'
+title: 'Djamaloedin Soeryohadikoesoemo: A Political Journey'
 date: 2023-10-22T08:22:00.000-07:00
 draft: false
 url: /2023/10/soeryohadikoesoemo-political-journey.html
@@ -41,7 +41,7 @@ Begitu banyak prestasi yang telah diraih oleh Djamaloedin Soeryohadikoesoemo dal
 
   
 
-Djamaloedin Soeryohadikoesoemo: Perjalanan Politik
+## Djamaloedin Soeryohadikoesoemo: Perjalanan Politik
 
   
 

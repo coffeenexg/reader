@@ -1,5 +1,5 @@
 ---
-title: '&quot;Ini Rahasia Keberhasilan Syukron Ma&#39;mun dalam Dunia Politik&quot;'
+title: 'Ini Rahasia Keberhasilan Syukron Ma&#39;mun dalam Dunia Politik'
 date: 2023-09-10T09:51:00.000-07:00
 draft: false
 url: /2023/09/rahasia-keberhasilan-syukron-ma-dalam.html

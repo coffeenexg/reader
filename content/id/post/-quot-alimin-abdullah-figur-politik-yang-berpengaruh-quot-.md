@@ -7,13 +7,7 @@ tags:
 - Politik
 ---
 
-  
-
-Alimin Abdullah: Figur Politik yang Berpengaruh
-
-  
-
-Sebuah era baru politik telah tiba di Indonesia, dan dalam sorotan utamanya terdapat seorang tokoh yang tak dapat diabaikan: Alimin Abdullah. Namun jangan biarkan namanya yang tak asing terdengar membingungkan Anda. Inilah sebuah perjalanan panjang, penuh perjuangan dan pengabdian, yang membuatnya berdiri sebagai salah satu figur politik paling berpengaruh dalam sejarah negara ini.
+ Sebuah era baru politik telah tiba di Indonesia, dan dalam sorotan utamanya terdapat seorang tokoh yang tak dapat diabaikan: Alimin Abdullah. Namun jangan biarkan namanya yang tak asing terdengar membingungkan Anda. Inilah sebuah perjalanan panjang, penuh perjuangan dan pengabdian, yang membuatnya berdiri sebagai salah satu figur politik paling berpengaruh dalam sejarah negara ini.
 
   
 

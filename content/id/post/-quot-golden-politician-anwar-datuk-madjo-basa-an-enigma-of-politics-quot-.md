@@ -1,5 +1,5 @@
 ---
-title: '&quot;Golden-Politician Anwar Datuk Madjo Basa: An Enigma of Politics&quot;'
+title: 'Golden-Politician Anwar Datuk Madjo Basa: An Enigma of Politics'
 date: 2023-08-26T08:00:00.000-07:00
 draft: false
 url: /2023/08/anwar-datuk-madjo-basa-enigma-of.html

@@ -1,5 +1,5 @@
 ---
-title: '&quot;Dynamic Leadership of Moenadi: Political Resilience and Vision&quot;'
+title: 'Dynamic Leadership of Moenadi: Political Resilience and Vision'
 date: 2023-10-04T07:58:00.000-07:00
 draft: false
 url: /2023/10/leadership-of-moenadi-political.html

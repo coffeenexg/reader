@@ -1,5 +1,5 @@
 ---
-title: '&quot;Kehidupan Politikus Mohamad Hasan: Dari Polisi ke Dunia Politik&quot;'
+title: 'Kehidupan Politikus Mohamad Hasan: Dari Polisi ke Dunia Politik'
 date: 2023-09-20T05:13:00.000-07:00
 draft: false
 url: /2023/09/politikus-mohamad-hasan-dari-polisi-ke.html

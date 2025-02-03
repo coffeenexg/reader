@@ -1,5 +1,5 @@
 ---
-title: '&quot;Basuki Hadimuljono: The Political Journey&quot;'
+title: 'Basuki Hadimuljono: The Political Journey'
 date: 2023-09-13T07:27:00.000-07:00
 draft: false
 url: /2023/09/hadimuljono-political-journey.html

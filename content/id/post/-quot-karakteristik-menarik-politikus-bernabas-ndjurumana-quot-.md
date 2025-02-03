@@ -1,5 +1,5 @@
 ---
-title: '&quot;Karakteristik Menarik Politikus Bernabas Ndjurumana&quot;'
+title: 'Karakteristik Menarik Politikus Bernabas Ndjurumana'
 date: 2023-12-10T12:50:00.000-08:00
 draft: false
 url: /2023/12/menarik-politikus-bernabas-ndjurumana.html

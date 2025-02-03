@@ -1,5 +1,5 @@
 ---
-title: '&quot;Ibnu Parna: The Politician&#39;s Journey&quot;'
+title: 'Ibnu Parna: The Politician&#39;s Journey'
 date: 2023-12-10T11:37:00.000-08:00
 draft: false
 url: /2023/12/parna-politician-journey.html

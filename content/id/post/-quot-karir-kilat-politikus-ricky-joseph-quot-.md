@@ -1,5 +1,5 @@
 ---
-title: '&quot;Karir Kilat Politikus Ricky Joseph&quot;'
+title: 'Karir Kilat Politikus Ricky Joseph'
 date: 2023-08-30T22:41:00.000-07:00
 draft: false
 url: /2023/08/kilat-politikus-ricky-joseph.html

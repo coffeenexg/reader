@@ -1,5 +1,5 @@
 ---
-title: '&quot;Joyokusumo: Membangun Perubahan Politik&quot;'
+title: 'Joyokusumo: Membangun Perubahan Politik'
 date: 2023-09-13T20:43:00.000-07:00
 draft: false
 url: /2023/09/membangun-perubahan-politik.html

@@ -1,5 +1,5 @@
 ---
-title: '&quot;David Napitupulu: A Rising Political Figure&quot;'
+title: 'David Napitupulu: A Rising Political Figure'
 date: 2023-12-01T02:12:00.000-08:00
 draft: false
 url: /2023/12/napitupulu-rising-political-figure.html

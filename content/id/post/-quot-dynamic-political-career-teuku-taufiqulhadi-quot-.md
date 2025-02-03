@@ -1,5 +1,5 @@
 ---
-title: '&quot;Dynamic Political Career: Teuku Taufiqulhadi&quot;'
+title: 'Dynamic Political Career: Teuku Taufiqulhadi'
 date: 2023-10-23T18:58:00.000-07:00
 draft: false
 url: /2023/10/political-career-teuku-taufiqulhadi.html

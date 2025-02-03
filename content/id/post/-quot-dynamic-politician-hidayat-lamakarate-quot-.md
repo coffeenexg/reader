@@ -1,5 +1,5 @@
 ---
-title: '&quot;Dynamic Politician Hidayat Lamakarate&quot;'
+title: 'Dynamic Politician Hidayat Lamakarate'
 date: 2023-09-05T14:06:00.000-07:00
 draft: false
 url: /2023/09/politician-hidayat-lamakarate.html

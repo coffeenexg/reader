@@ -1,5 +1,5 @@
 ---
-title: '&quot;Karier Politik Memed Tanumidjaja&quot;'
+title: 'Karier Politik Memed Tanumidjaja'
 date: 2023-09-28T19:45:00.000-07:00
 draft: false
 url: /2023/09/politik-memed-tanumidjaja.html

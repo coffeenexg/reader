@@ -1,5 +1,5 @@
 ---
-title: '&quot;Inspirasi dan Dedikasi Politikus Idah Syahidah&quot;'
+title: 'Inspirasi dan Dedikasi Politikus Idah Syahidah'
 date: 2023-11-02T00:13:00.000-07:00
 draft: false
 url: /2023/11/dan-dedikasi-politikus-idah-syahidah.html

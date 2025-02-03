@@ -1,5 +1,5 @@
 ---
-title: '&quot;Djumhana Wiriaatmadja: The Political Trailblazer&quot;'
+title: 'Djumhana Wiriaatmadja: The Political Trailblazer'
 date: 2023-12-16T01:14:00.000-08:00
 draft: false
 url: /2023/12/wiriaatmadja-political-trailblazer.html

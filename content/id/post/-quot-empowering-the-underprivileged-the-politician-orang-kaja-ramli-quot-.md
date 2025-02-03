@@ -1,5 +1,5 @@
 ---
-title: '&quot;Empowering the Underprivileged: The Politician Orang Kaja Ramli&quot;'
+title: 'Empowering the Underprivileged: The Politician Orang Kaja Ramli'
 date: 2023-11-28T10:36:00.000-08:00
 draft: false
 url: /2023/11/the-underprivileged-politician-orang.html
@@ -37,7 +37,7 @@ Sekarang kita berada pada ambang sebuah era baru ketika politisi seperti Orang K
 
   
 
-Empowering the Underprivileged: The Politician Orang Kaja Ramli
+## Empowering the Underprivileged: The Politician Orang Kaja Ramli
 
   
 

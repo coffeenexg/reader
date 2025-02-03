@@ -1,5 +1,5 @@
 ---
-title: '&quot;Calculating Politicians: Unveiling the Numbers Game&quot;'
+title: 'Calculating Politicians: Unveiling the Numbers Game'
 date: 2023-11-20T19:26:00.000-08:00
 draft: false
 url: /2023/11/politicians-unveiling-numbers-game.html

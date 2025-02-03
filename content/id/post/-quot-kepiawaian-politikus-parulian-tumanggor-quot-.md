@@ -1,5 +1,5 @@
 ---
-title: '&quot;Kepiawaian Politikus Parulian Tumanggor&quot;'
+title: 'Kepiawaian Politikus Parulian Tumanggor'
 date: 2023-08-28T21:35:00.000-07:00
 draft: false
 url: /2023/08/politikus-parulian-tumanggor.html

@@ -1,5 +1,5 @@
 ---
-title: '&quot;Ini Profil Politikus Azikin Solthan&quot;'
+title: 'Ini Profil Politikus Azikin Solthan'
 date: 2023-10-25T21:09:00.000-07:00
 draft: false
 url: /2023/10/profil-politikus-azikin-solthan.html
@@ -41,7 +41,7 @@ Dengan riwayat hidupnya yang inspiratif ini, Azikin Solthan saat ini dikenal lua
 
   
 
-Profil Politikus Azikin Solthan
+## Profil Politikus Azikin Solthan
 
   
 

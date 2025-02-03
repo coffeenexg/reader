@@ -1,5 +1,5 @@
 ---
-title: '&quot;Fadia A. Rafiq: Shaping Political Landscape&quot;'
+title: 'Fadia A. Rafiq: Shaping Political Landscape'
 date: 2023-10-16T09:00:00.001-07:00
 draft: false
 url: /2023/10/a-rafiq-shaping-political-landscape.html

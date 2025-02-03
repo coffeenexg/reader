@@ -1,5 +1,5 @@
 ---
-title: '&quot;Jazuli Juwaini: The Political Journey&quot;'
+title: 'Jazuli Juwaini: The Political Journey'
 date: 2023-11-29T03:14:00.000-08:00
 draft: false
 url: /2023/11/juwaini-political-journey.html

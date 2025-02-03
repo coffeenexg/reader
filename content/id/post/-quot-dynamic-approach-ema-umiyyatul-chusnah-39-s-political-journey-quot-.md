@@ -1,5 +1,5 @@
 ---
-title: '&quot;Dynamic Approach: Ema Umiyyatul Chusnah&#39;s Political Journey&quot;'
+title: 'Dynamic Approach: Ema Umiyyatul Chusnah&#39;s Political Journey'
 date: 2023-11-21T23:08:00.000-08:00
 draft: false
 url: /2023/11/approach-ema-umiyyatul-chusnah.html

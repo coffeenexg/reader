@@ -1,5 +1,5 @@
 ---
-title: '&quot;Inspirasi Berani: Profil Nur Azizah Tamhid&quot;'
+title: 'Inspirasi Berani: Profil Nur Azizah Tamhid'
 date: 2023-10-26T10:12:00.000-07:00
 draft: false
 url: /2023/10/berani-profil-nur-azizah-tamhid.html

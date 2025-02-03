@@ -1,5 +1,5 @@
 ---
-title: '&quot;Kepemimpinan Inspiratif Politikus Suyoto&quot;'
+title: 'Kepemimpinan Inspiratif Politikus Suyoto'
 date: 2023-10-05T06:53:00.000-07:00
 draft: false
 url: /2023/10/inspiratif-politikus-suyoto.html

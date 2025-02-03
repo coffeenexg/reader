@@ -1,5 +1,5 @@
 ---
-title: '&quot;Karakter Politikus Mat Solar&quot;'
+title: 'Karakter Politikus Mat Solar'
 date: 2023-09-10T11:18:00.000-07:00
 draft: false
 url: /2023/09/politikus-mat-solar.html

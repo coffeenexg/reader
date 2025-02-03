@@ -1,5 +1,5 @@
 ---
-title: '&quot;Heri Akhmadi: A Rising Political Force&quot;'
+title: 'Heri Akhmadi: A Rising Political Force'
 date: 2023-11-03T15:06:00.000-07:00
 draft: false
 url: /2023/11/akhmadi-rising-political-force.html

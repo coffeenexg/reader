@@ -1,5 +1,5 @@
 ---
-title: '&quot;Embarking on Political Journey: The Rise of Embay Mulya Syarief&quot;'
+title: 'Embarking on Political Journey: The Rise of Embay Mulya Syarief'
 date: 2023-10-22T23:39:00.000-07:00
 draft: false
 url: /2023/10/on-political-journey-rise-of-embay.html
@@ -41,7 +41,7 @@ Dalam blog ini, kita akan menelusuri perjalanan luar biasa Embay Mulya Syarief d
 
   
 
-Embarking on Political Journey: The Rise of Embay Mulya Syarief
+## Embarking on Political Journey: The Rise of Embay Mulya Syarief
 
   
 

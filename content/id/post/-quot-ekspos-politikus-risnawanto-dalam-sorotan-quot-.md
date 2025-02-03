@@ -1,5 +1,5 @@
 ---
-title: '&quot;Ekspos Politikus Risnawanto dalam Sorotan&quot;'
+title: 'Ekspos Politikus Risnawanto dalam Sorotan'
 date: 2023-08-28T07:36:00.000-07:00
 draft: false
 url: /2023/08/politikus-risnawanto-dalam-sorotan.html

@@ -1,5 +1,5 @@
 ---
-title: '&quot;Dynamic Leadership: Politician Najmul Akhyar&#39;s Journey&quot;'
+title: 'Dynamic Leadership: Politician Najmul Akhyar&#39;s Journey'
 date: 2023-11-05T18:01:00.000-08:00
 draft: false
 url: /2023/11/leadership-politician-najmul-akhyar.html
@@ -37,7 +37,7 @@ Dengan karir politik yang belum usai, perjalanan dinamis Najmul Akhyar masih aka
 
   
 
-Dynamic Leadership: Perjalanan Politikus Najmul Akhyar
+## Dynamic Leadership: Perjalanan Politikus Najmul Akhyar
 
   
 

@@ -1,5 +1,5 @@
 ---
-title: '&quot;Familial Politics: Uncovering the Limpo Dynasty&quot;'
+title: 'Familial Politics: Uncovering the Limpo Dynasty'
 date: 2023-09-05T05:30:00.000-07:00
 draft: false
 url: /2023/09/politics-uncovering-limpo-dynasty.html

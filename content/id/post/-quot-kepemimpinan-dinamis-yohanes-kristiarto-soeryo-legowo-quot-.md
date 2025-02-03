@@ -1,5 +1,5 @@
 ---
-title: '&quot;Kepemimpinan Dinamis Yohanes Kristiarto Soeryo Legowo&quot;'
+title: 'Kepemimpinan Dinamis Yohanes Kristiarto Soeryo Legowo'
 date: 2023-12-21T23:28:00.000-08:00
 draft: false
 url: /2023/12/dinamis-yohanes-kristiarto-soeryo-legowo.html

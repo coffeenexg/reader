@@ -1,6 +1,6 @@
 ---
-title: '&quot;Keberhasilan Politikus Dedy Djamaluddin Malik: Sebuah Perjalanan
-Inspiratif&quot;'
+title: 'Keberhasilan Politikus Dedy Djamaluddin Malik: Sebuah Perjalanan
+Inspiratif'
 date: 2023-11-04T21:52:00.000-07:00
 draft: false
 url: /2023/11/politikus-dedy-djamaluddin-malik-sebuah.html

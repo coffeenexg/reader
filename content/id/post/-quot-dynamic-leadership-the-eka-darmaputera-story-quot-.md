@@ -1,15 +1,11 @@
 ---
-title: '&quot;Dynamic Leadership: The Eka Darmaputera Story&quot;'
+title: 'Dynamic Leadership: The Eka Darmaputera Story'
 date: 2023-09-08T00:39:00.000-07:00
 draft: false
 url: /2023/09/leadership-eka-darmaputera-story.html
 tags: 
 - Politik
 ---
-
-  
-
-BAB (Before After Bridge) Framework:
 
   
 

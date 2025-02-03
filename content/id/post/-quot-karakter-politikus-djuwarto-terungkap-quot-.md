@@ -1,5 +1,5 @@
 ---
-title: '&quot;Karakter Politikus Djuwarto Terungkap&quot;'
+title: 'Karakter Politikus Djuwarto Terungkap'
 date: 2023-10-20T07:13:00.000-07:00
 draft: false
 url: /2023/10/politikus-djuwarto-terungkap.html

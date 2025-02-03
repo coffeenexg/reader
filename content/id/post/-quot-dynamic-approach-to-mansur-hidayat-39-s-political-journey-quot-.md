@@ -1,5 +1,5 @@
 ---
-title: '&quot;Dynamic Approach to Mansur Hidayat&#39;s Political Journey&quot;'
+title: 'Dynamic Approach to Mansur Hidayat&#39;s Political Journey'
 date: 2023-09-08T13:58:00.000-07:00
 draft: false
 url: /2023/09/approach-to-mansur-hidayat-political.html

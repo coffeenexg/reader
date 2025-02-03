@@ -1,5 +1,5 @@
 ---
-title: '&quot;Dynamic Legacy of Barnabas Suebu: A Political Game Changer&quot;'
+title: 'Dynamic Legacy of Barnabas Suebu: A Political Game Changer'
 date: 2023-09-12T20:44:00.000-07:00
 draft: false
 url: /2023/09/legacy-of-barnabas-suebu-political-game.html
@@ -41,7 +41,7 @@ Mengenang perjalanan dinamis Barnabas Suebu di panggung politik Indonesia adalah
 
   
 
-Dynamic Legacy of Barnabas Suebu: A Political Game Changer
+## Dynamic Legacy of Barnabas Suebu: A Political Game Changer
 
   
 

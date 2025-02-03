@@ -1,5 +1,5 @@
 ---
-title: '&quot;Dynamic Political Career of Ramly Umasugi&quot;'
+title: 'Dynamic Political Career of Ramly Umasugi'
 date: 2023-12-15T07:38:00.000-08:00
 draft: false
 url: /2023/12/political-career-of-ramly-umasugi.html

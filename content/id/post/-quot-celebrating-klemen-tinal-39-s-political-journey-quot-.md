@@ -1,5 +1,5 @@
 ---
-title: '&quot;Celebrating Klemen Tinal&#39;s Political Journey&quot;'
+title: 'Celebrating Klemen Tinal&#39;s Political Journey'
 date: 2023-11-12T19:48:00.000-08:00
 draft: false
 url: /2023/11/klemen-tinal-political-journey.html

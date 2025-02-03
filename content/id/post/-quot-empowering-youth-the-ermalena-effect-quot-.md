@@ -1,5 +1,5 @@
 ---
-title: '&quot;Empowering Youth: The Ermalena Effect&quot;'
+title: 'Empowering Youth: The Ermalena Effect'
 date: 2023-10-01T23:38:00.000-07:00
 draft: false
 url: /2023/10/youth-ermalena-effect.html

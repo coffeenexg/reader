@@ -1,5 +1,5 @@
 ---
-title: '&quot;Fadly Nurzal: Transformasi Politikus Masa Depan&quot;'
+title: 'Fadly Nurzal: Transformasi Politikus Masa Depan'
 date: 2023-09-19T11:51:00.000-07:00
 draft: false
 url: /2023/09/nurzal-transformasi-politikus-masa-depan.html

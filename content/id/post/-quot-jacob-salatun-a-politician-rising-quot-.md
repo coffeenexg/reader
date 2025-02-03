@@ -1,5 +1,5 @@
 ---
-title: '&quot;Jacob Salatun: A Politician Rising&quot;'
+title: 'Jacob Salatun: A Politician Rising'
 date: 2023-11-17T10:56:00.000-08:00
 draft: false
 url: /2023/11/salatun-politician-rising.html

@@ -1,5 +1,5 @@
 ---
-title: '&quot;Dynamic Leadership: Afif Nurhidayat&#39;s Impact&quot;'
+title: 'Dynamic Leadership: Afif Nurhidayat&#39;s Impact'
 date: 2023-10-27T22:19:00.000-07:00
 draft: false
 url: /2023/10/leadership-afif-nurhidayat-impact.html

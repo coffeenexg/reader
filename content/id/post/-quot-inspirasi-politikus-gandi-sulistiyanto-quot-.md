@@ -1,5 +1,5 @@
 ---
-title: '&quot;Inspirasi Politikus Gandi Sulistiyanto&quot;'
+title: 'Inspirasi Politikus Gandi Sulistiyanto'
 date: 2023-09-16T18:28:00.000-07:00
 draft: false
 url: /2023/09/politikus-gandi-sulistiyanto.html

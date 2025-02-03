@@ -1,5 +1,5 @@
 ---
-title: '&quot;Delis Julkarson Hehi: A Rising Political Force&quot;'
+title: 'Delis Julkarson Hehi: A Rising Political Force'
 date: 2023-12-06T02:11:00.000-08:00
 draft: false
 url: /2023/12/julkarson-hehi-rising-political-force.html

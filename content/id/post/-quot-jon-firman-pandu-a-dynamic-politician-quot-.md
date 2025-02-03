@@ -1,5 +1,5 @@
 ---
-title: '&quot;Jon Firman Pandu: A Dynamic Politician&quot;'
+title: 'Jon Firman Pandu: A Dynamic Politician'
 date: 2023-10-01T01:46:00.000-07:00
 draft: false
 url: /2023/10/firman-pandu-dynamic-politician.html

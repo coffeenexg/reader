@@ -1,6 +1,6 @@
 ---
-title: '&quot;Eksentrik Eusabius Binsasi: Mengungkap Latar Belakang Politikus
-Kontroversial&quot;'
+title: 'ksentrik Eusabius Binsasi: Mengungkap Latar Belakang Politikus
+Kontroversial'
 date: 2023-09-14T10:53:00.000-07:00
 draft: false
 url: /2023/09/eusabius-binsasi-mengungkap-latar.html
@@ -42,7 +42,7 @@ Dalam artikel-artikel selanjutnya, kita akan menggali lebih dalam latar belakang
 
   
 
-Eksentrik Eusabius Binsasi: Mengungkap Latar Belakang Politikus Kontroversial
+## Eksentrik Eusabius Binsasi: Mengungkap Latar Belakang Politikus Kontroversial
 
   
 

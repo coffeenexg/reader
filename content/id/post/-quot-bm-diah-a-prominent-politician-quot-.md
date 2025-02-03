@@ -1,5 +1,5 @@
 ---
-title: '&quot;B.M. Diah: A Prominent Politician&quot;'
+title: 'B.M. Diah: A Prominent Politician'
 date: 2023-12-25T22:16:00.000-08:00
 draft: false
 url: /2023/12/diah-prominent-politician.html

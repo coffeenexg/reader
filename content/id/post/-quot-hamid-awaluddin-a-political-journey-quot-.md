@@ -1,5 +1,5 @@
 ---
-title: '&quot;Hamid Awaluddin: A Political Journey&quot;'
+title: 'Hamid Awaluddin: A Political Journey'
 date: 2023-10-18T00:10:00.000-07:00
 draft: false
 url: /2023/10/awaluddin-political-journey.html

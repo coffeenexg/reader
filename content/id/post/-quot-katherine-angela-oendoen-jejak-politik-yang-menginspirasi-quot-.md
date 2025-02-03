@@ -1,5 +1,5 @@
 ---
-title: '&quot;Katherine Angela Oendoen: Jejak Politik yang Menginspirasi&quot;'
+title: 'Katherine Angela Oendoen: Jejak Politik yang Menginspirasi'
 date: 2023-11-27T12:14:00.000-08:00
 draft: false
 url: /2023/11/angela-oendoen-jejak-politik-yang.html

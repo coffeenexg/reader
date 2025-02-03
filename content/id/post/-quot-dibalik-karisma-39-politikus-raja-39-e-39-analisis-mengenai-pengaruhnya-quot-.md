@@ -1,5 +1,5 @@
 ---
-title: '&quot;Dibalik Karisma &#39;Politikus Raja&#39;e&#39;: Analisis Mengenai Pengaruhnya&quot;'
+title: 'Dibalik Karisma &#39;Politikus Raja&#39;e&#39;: Analisis Mengenai Pengaruhnya'
 date: 2023-11-14T19:48:00.000-08:00
 draft: false
 url: /2023/11/karisma-raja-analisis-mengenai.html

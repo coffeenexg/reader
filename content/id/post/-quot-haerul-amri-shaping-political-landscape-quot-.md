@@ -1,5 +1,5 @@
 ---
-title: '&quot;Haerul Amri: Shaping Political Landscape&quot;'
+title: 'Haerul Amri: Shaping Political Landscape'
 date: 2023-10-21T11:58:00.000-07:00
 draft: false
 url: /2023/10/amri-shaping-political-landscape.html

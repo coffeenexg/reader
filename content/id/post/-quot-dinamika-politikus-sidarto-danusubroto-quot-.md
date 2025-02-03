@@ -1,5 +1,5 @@
 ---
-title: '&quot;Dinamika Politikus Sidarto Danusubroto&quot;'
+title: 'Dinamika Politikus Sidarto Danusubroto'
 date: 2023-08-25T08:50:00.000-07:00
 draft: false
 url: /2023/08/politikus-sidarto-danusubroto.html
@@ -41,7 +41,7 @@ Dengan segala prestasinya dan karisma kepemimpinannya, tidak mengherankan jika S
 
   
 
-Dinamika Politikus Sidarto Danusubroto
+## Dinamika Politikus Sidarto Danusubroto
 
   
 

@@ -1,5 +1,5 @@
 ---
-title: '&quot;Ini Loh Politikus Thaib Armaiyn!&quot;'
+title: 'Ini Loh Politikus Thaib Armaiyn!'
 date: 2023-09-28T11:24:00.000-07:00
 draft: false
 url: /2023/09/loh-politikus-thaib-armaiyn.html
@@ -37,7 +37,7 @@ Dalam tulisan ini, kita akan lebih jauh melihat perjalanan politikus Thai yang m
 
   
 
-Ini Loh Politikus Thaib Armaiyn!
+## Ini Loh Politikus Thaib Armaiyn!
 
   
 

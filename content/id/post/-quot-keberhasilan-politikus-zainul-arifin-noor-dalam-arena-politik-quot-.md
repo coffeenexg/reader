@@ -1,5 +1,5 @@
 ---
-title: '&quot;Keberhasilan Politikus Zainul Arifin Noor dalam Arena Politik&quot;'
+title: 'Keberhasilan Politikus Zainul Arifin Noor dalam Arena Politik'
 date: 2023-12-25T11:45:00.000-08:00
 draft: false
 url: /2023/12/politikus-zainul-arifin-noor-dalam.html

@@ -1,5 +1,5 @@
 ---
-title: '&quot;Karier Politik Sidik Djojosukarto&quot;'
+title: 'Karier Politik Sidik Djojosukarto'
 date: 2023-09-13T03:29:00.000-07:00
 draft: false
 url: /2023/09/politik-sidik-djojosukarto.html

@@ -1,5 +1,5 @@
 ---
-title: '&quot;Anita Noeringhati: Politikus Muda yang Berani&quot;'
+title: 'Anita Noeringhati: Politikus Muda yang Berani'
 date: 2023-09-04T11:42:00.000-07:00
 draft: false
 url: /2023/09/noeringhati-politikus-muda-yang-berani.html

@@ -1,5 +1,5 @@
 ---
-title: '&quot;Arif Sugiyanto: A Rising Political Figure&quot;'
+title: 'Arif Sugiyanto: A Rising Political Figure'
 date: 2023-09-01T10:49:00.000-07:00
 draft: false
 url: /2023/09/sugiyanto-rising-political-figure.html

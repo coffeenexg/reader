@@ -1,5 +1,5 @@
 ---
-title: '&quot;Djamari Chaniago: A Political Journey&quot;'
+title: 'Djamari Chaniago: A Political Journey'
 date: 2023-10-25T03:37:00.000-07:00
 draft: false
 url: /2023/10/chaniago-political-journey.html
@@ -37,15 +37,13 @@ Bersama-sama kita akan menyaksikan perjalanan panjang Djamari Chaniago yang penu
 
   
 
-Jangan lewatkan kisah menakjub
-
-  
+ 
 
 ![](https://www.tagar.id/Asset/uploads2019/1604210851956-djamari-chaniago.jpg)
 
   
 
-Djamari Chaniago: Perjalanan Politik
+## Djamari Chaniago: Perjalanan Politik
 
   
 

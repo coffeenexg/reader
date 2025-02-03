@@ -1,10 +1,10 @@
 {
   "name": "Reader | Hugo Personal Blog Template",
   "short_name": "Reader | Hugo Personal Blog Template",
-  "lang": "en-us",
+  "lang": "id-id",
   "display": "fullscreen",
   "orientation" : "portrait",
-  "start_url": "http://localhost:60002/?utm_source=web_app_manifest",
+  "start_url": "http://localhost:1313/?utm_source=web_app_manifest",
   "background_color": "#fff",
   "theme_color": "#4FD675",
 
